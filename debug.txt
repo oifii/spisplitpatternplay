@@ -1,0 +1,42 @@
+SplitInSegments():
+fSecondsPerSegment = 1.000000
+SampleRate = 44100
+numFramesPerSegment = 44100
+totalFrames = 34428
+(numFramesPerSegment>totalFrames || fSecondsPerSegment==0.0)==1, warning ...
+SplitInSegments():
+fSecondsPerSegment = 1.000000
+SampleRate = 44100
+numFramesPerSegment = 44100
+totalFrames = 34428
+(numFramesPerSegment>totalFrames || fSecondsPerSegment==0.0)==1, warning ...
+SplitInSegments():
+fSecondsPerSegment = 1.000000
+SampleRate = 44100
+numFramesPerSegment = 44100
+totalFrames = 34428
+(numFramesPerSegment>totalFrames || fSecondsPerSegment==0.0)==1, warning ...
+SplitInSegments():
+fSecondsPerSegment = 1.000000
+SampleRate = 44100
+numFramesPerSegment = 44100
+totalFrames = 34428
+(numFramesPerSegment>totalFrames || fSecondsPerSegment==0.0)==1, warning ...
+ReadWavFile():
+totalFrames = 1310720
+numChannels = 2
+numSamples = 2621440
+numBytes = 10485760
+Could not allocate load buffer, exiting ...
+ReadWavFile():
+totalFrames = 1058400
+numChannels = 2
+numSamples = 2116800
+numBytes = 8467200
+Could not allocate load buffer, exiting ...
+ReadWavFile():
+totalFrames = 222033
+numChannels = 1
+numSamples = 222033
+numBytes = 888132
+Could not allocate load buffer, exiting ...

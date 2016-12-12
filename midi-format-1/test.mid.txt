@@ -1,0 +1,72 @@
+MFile 1 1 120
+MTrk
+0 SysEx f0 41 10 42 12 40 00 7f 00 41 f7
+0 SeqSpec 4a 41 5a 32 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+900 On ch=1 n=36 v=113
+1062 On ch=1 n=69 v=106
+1086 On ch=1 n=36 v=0
+1158 On ch=1 n=69 v=0
+1161 On ch=1 n=41 v=100
+1381 On ch=1 n=60 v=106
+1405 On ch=1 n=41 v=0
+1600 On ch=1 n=60 v=0
+1604 On ch=1 n=50 v=88
+1682 On ch=1 n=55 v=95
+1684 On ch=1 n=50 v=0
+1736 On ch=1 n=52 v=79
+1738 On ch=1 n=55 v=0
+1797 On ch=1 n=53 v=87
+1804 On ch=1 n=52 v=0
+1851 On ch=1 n=53 v=0
+1855 On ch=1 n=50 v=85
+1912 On ch=1 n=55 v=70
+1933 On ch=1 n=50 v=0
+1985 On ch=1 n=55 v=0
+2114 On ch=1 n=41 v=87
+2168 On ch=1 n=72 v=86
+2175 On ch=1 n=41 v=0
+2243 On ch=1 n=40 v=64
+2365 On ch=1 n=72 v=0
+2416 On ch=1 n=40 v=0
+2492 On ch=1 n=57 v=90
+2492 On ch=1 n=55 v=87
+2576 On ch=1 n=53 v=76
+2578 On ch=1 n=57 v=0
+2581 On ch=1 n=55 v=0
+2649 On ch=1 n=55 v=100
+2656 On ch=1 n=53 v=0
+2717 On ch=1 n=50 v=85
+2717 On ch=1 n=55 v=0
+2773 On ch=1 n=53 v=95
+2776 On ch=1 n=50 v=0
+2823 On ch=1 n=53 v=0
+2825 On ch=1 n=52 v=85
+2872 On ch=1 n=52 v=0
+2872 On ch=1 n=55 v=88
+2928 On ch=1 n=55 v=0
+2942 On ch=1 n=52 v=83
+2987 On ch=1 n=52 v=0
+2994 On ch=1 n=53 v=76
+3043 On ch=1 n=53 v=0
+3048 On ch=1 n=50 v=80
+3107 On ch=1 n=50 v=0
+3121 On ch=1 n=57 v=77
+3121 On ch=1 n=55 v=70
+3158 On ch=1 n=55 v=0
+3170 On ch=1 n=57 v=0
+3170 On ch=1 n=52 v=75
+3224 On ch=1 n=52 v=0
+3243 On ch=1 n=55 v=97
+3276 On ch=1 n=55 v=0
+3290 On ch=1 n=53 v=75
+3327 On ch=1 n=53 v=0
+3351 On ch=1 n=53 v=89
+3393 On ch=1 n=53 v=0
+3414 On ch=1 n=50 v=78
+3461 On ch=1 n=50 v=0
+3464 On ch=1 n=52 v=83
+3520 On ch=1 n=52 v=0
+3532 On ch=1 n=48 v=70
+3572 On ch=1 n=48 v=0
+3572 Meta TrkEnd
+TrkEnd

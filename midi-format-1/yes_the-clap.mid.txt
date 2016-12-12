@@ -1,0 +1,1274 @@
+MFile 1 9 480
+MTrk
+0 Meta SeqName "The Clap"
+0 TimeSig 4/4 24 8
+0 Tempo 535714
+24960 TimeSig 2/4 24 8
+25920 TimeSig 4/4 24 8
+54720 Meta TrkEnd
+TrkEnd
+MTrk
+0 Meta TrkName "Steel-str Gt"
+0 Meta 0x20 00
+0 Meta InstrName "Steel-str Gt"
+0 KeySig 0 major
+10 Par ch=1 c=0 v=0
+15 Par ch=1 c=32 v=0
+20 PrCh ch=1 p=25
+25 Par ch=1 c=7 v=127
+30 Par ch=1 c=10 v=50
+35 Par ch=1 c=91 v=40
+40 Par ch=1 c=93 v=0
+45 Par ch=1 c=101 v=0
+45 Par ch=1 c=100 v=0
+45 Par ch=1 c=6 v=2
+50 Par ch=1 c=99 v=1
+50 Par ch=1 c=98 v=8
+50 Par ch=1 c=6 v=64
+55 Par ch=1 c=99 v=1
+55 Par ch=1 c=98 v=9
+55 Par ch=1 c=6 v=64
+60 Par ch=1 c=99 v=1
+60 Par ch=1 c=98 v=10
+60 Par ch=1 c=6 v=64
+65 Par ch=1 c=99 v=1
+65 Par ch=1 c=98 v=32
+65 Par ch=1 c=6 v=64
+70 Par ch=1 c=99 v=1
+70 Par ch=1 c=98 v=33
+70 Par ch=1 c=6 v=64
+75 Par ch=1 c=99 v=1
+75 Par ch=1 c=98 v=99
+75 Par ch=1 c=6 v=64
+80 Par ch=1 c=99 v=1
+80 Par ch=1 c=98 v=100
+80 Par ch=1 c=6 v=64
+85 Par ch=1 c=99 v=1
+85 Par ch=1 c=98 v=102
+85 Par ch=1 c=6 v=64
+11677 On ch=1 n=74 v=110
+11834 Off ch=1 n=74 v=110
+12155 On ch=1 n=67 v=109
+12327 Off ch=1 n=67 v=109
+12633 On ch=1 n=66 v=110
+12801 Off ch=1 n=66 v=110
+13115 On ch=1 n=64 v=111
+13266 Off ch=1 n=64 v=111
+15517 On ch=1 n=74 v=110
+15674 Off ch=1 n=74 v=110
+15995 On ch=1 n=67 v=109
+16167 Off ch=1 n=67 v=109
+16473 On ch=1 n=66 v=110
+16641 Off ch=1 n=66 v=110
+16955 On ch=1 n=64 v=111
+17106 Off ch=1 n=64 v=111
+17522 On ch=1 n=66 v=112
+17719 Off ch=1 n=66 v=112
+17881 On ch=1 n=64 v=102
+17986 Off ch=1 n=64 v=102
+18001 On ch=1 n=58 v=103
+18218 Off ch=1 n=58 v=103
+18247 On ch=1 n=66 v=97
+18352 Off ch=1 n=66 v=97
+18362 On ch=1 n=64 v=115
+18476 Off ch=1 n=64 v=115
+18487 On ch=1 n=58 v=112
+18578 Off ch=1 n=58 v=112
+18601 On ch=1 n=66 v=107
+18961 Off ch=1 n=66 v=107
+19444 On ch=1 n=71 v=103
+19531 Off ch=1 n=71 v=103
+19682 On ch=1 n=73 v=120
+19783 Off ch=1 n=73 v=120
+19805 On ch=1 n=74 v=92
+19964 Off ch=1 n=74 v=92
+20174 On ch=1 n=73 v=110
+20372 Off ch=1 n=73 v=110
+20534 On ch=1 n=69 v=112
+20977 Off ch=1 n=69 v=112
+21360 On ch=1 n=67 v=105
+21449 Off ch=1 n=67 v=105
+21604 On ch=1 n=69 v=110
+21700 Off ch=1 n=69 v=110
+21726 On ch=1 n=71 v=80
+21894 Off ch=1 n=71 v=80
+22099 On ch=1 n=69 v=104
+22298 Off ch=1 n=69 v=104
+22458 On ch=1 n=66 v=110
+22903 Off ch=1 n=66 v=110
+23293 On ch=1 n=62 v=114
+23628 Off ch=1 n=62 v=114
+23644 On ch=1 n=64 v=100
+23740 Off ch=1 n=64 v=100
+23768 On ch=1 n=62 v=104
+23888 Off ch=1 n=62 v=104
+23999 Pb ch=1 v=9479
+24007 On ch=1 n=64 v=102
+24013 Pb ch=1 v=11117
+24027 Pb ch=1 v=12053
+24043 Pb ch=1 v=12165
+24057 Pb ch=1 v=12288
+24160 Pb ch=1 v=12053
+24174 Pb ch=1 v=11117
+24189 Pb ch=1 v=9362
+24203 Pb ch=1 v=8192
+24369 Off ch=1 n=64 v=102
+24380 On ch=1 n=62 v=112
+24578 Off ch=1 n=62 v=112
+24602 On ch=1 n=64 v=94
+24674 Off ch=1 n=64 v=94
+24715 On ch=1 n=62 v=86
+24883 Off ch=1 n=62 v=86
+24961 On ch=1 n=64 v=110
+24963 Pb ch=1 v=10532
+24978 Pb ch=1 v=11919
+24993 Pb ch=1 v=12083
+25007 Pb ch=1 v=12288
+25036 Pb ch=1 v=12124
+25051 Pb ch=1 v=11351
+25066 Pb ch=1 v=9362
+25080 Pb ch=1 v=8192
+25305 Off ch=1 n=64 v=110
+25317 On ch=1 n=62 v=111
+25560 Off ch=1 n=62 v=111
+25574 On ch=1 n=64 v=102
+25672 Off ch=1 n=64 v=102
+25683 On ch=1 n=62 v=106
+25819 Off ch=1 n=62 v=106
+25920 On ch=1 n=60 v=112
+26040 On ch=1 n=66 v=100
+26155 Off ch=1 n=60 v=112
+26160 On ch=1 n=62 v=90
+26278 Off ch=1 n=62 v=90
+26280 On ch=1 n=60 v=104
+26388 Off ch=1 n=66 v=100
+26400 On ch=1 n=66 v=87
+26518 Off ch=1 n=66 v=87
+26520 On ch=1 n=59 v=80
+26578 Off ch=1 n=60 v=104
+26640 On ch=1 n=60 v=71
+26702 Off ch=1 n=59 v=80
+26758 Off ch=1 n=60 v=71
+26760 On ch=1 n=62 v=81
+26878 Off ch=1 n=62 v=81
+26880 On ch=1 n=60 v=99
+27000 On ch=1 n=66 v=77
+27118 Off ch=1 n=66 v=77
+27120 On ch=1 n=59 v=92
+27179 Off ch=1 n=60 v=99
+27240 On ch=1 n=60 v=84
+27302 Off ch=1 n=59 v=92
+27360 On ch=1 n=66 v=89
+27470 Off ch=1 n=60 v=84
+27478 Off ch=1 n=66 v=89
+27480 On ch=1 n=60 v=84
+27598 Off ch=1 n=60 v=84
+27600 On ch=1 n=62 v=81
+27835 Off ch=1 n=62 v=81
+29917 On ch=1 n=74 v=110
+30074 Off ch=1 n=74 v=110
+30395 On ch=1 n=67 v=109
+30567 Off ch=1 n=67 v=109
+30873 On ch=1 n=66 v=110
+31041 Off ch=1 n=66 v=110
+31355 On ch=1 n=64 v=111
+31506 Off ch=1 n=64 v=111
+32641 On ch=1 n=69 v=120
+32811 Off ch=1 n=69 v=120
+33002 On ch=1 n=66 v=119
+33345 Off ch=1 n=66 v=119
+33757 On ch=1 n=74 v=110
+33914 Off ch=1 n=74 v=110
+34235 On ch=1 n=67 v=109
+34407 Off ch=1 n=67 v=109
+34713 On ch=1 n=66 v=110
+34881 Off ch=1 n=66 v=110
+35195 On ch=1 n=64 v=111
+35346 Off ch=1 n=64 v=111
+35762 On ch=1 n=66 v=112
+35959 Off ch=1 n=66 v=112
+36121 On ch=1 n=64 v=102
+36226 Off ch=1 n=64 v=102
+36241 On ch=1 n=58 v=103
+36458 Off ch=1 n=58 v=103
+36487 On ch=1 n=66 v=97
+36592 Off ch=1 n=66 v=97
+36602 On ch=1 n=64 v=115
+36716 Off ch=1 n=64 v=115
+36727 On ch=1 n=58 v=112
+36818 Off ch=1 n=58 v=112
+36841 On ch=1 n=66 v=107
+37201 Off ch=1 n=66 v=107
+37684 On ch=1 n=71 v=103
+37771 Off ch=1 n=71 v=103
+37922 On ch=1 n=73 v=120
+38023 Off ch=1 n=73 v=120
+38045 On ch=1 n=74 v=92
+38204 Off ch=1 n=74 v=92
+38414 On ch=1 n=73 v=110
+38612 Off ch=1 n=73 v=110
+38774 On ch=1 n=69 v=112
+39217 Off ch=1 n=69 v=112
+39600 On ch=1 n=67 v=105
+39689 Off ch=1 n=67 v=105
+39844 On ch=1 n=69 v=110
+39940 Off ch=1 n=69 v=110
+39966 On ch=1 n=71 v=80
+40134 Off ch=1 n=71 v=80
+40339 On ch=1 n=69 v=104
+40538 Off ch=1 n=69 v=104
+40698 On ch=1 n=66 v=110
+41143 Off ch=1 n=66 v=110
+41533 On ch=1 n=62 v=114
+41868 Off ch=1 n=62 v=114
+41884 On ch=1 n=64 v=100
+41980 Off ch=1 n=64 v=100
+42008 On ch=1 n=62 v=104
+42128 Off ch=1 n=62 v=104
+42239 Pb ch=1 v=9479
+42247 On ch=1 n=64 v=102
+42253 Pb ch=1 v=11117
+42267 Pb ch=1 v=12053
+42283 Pb ch=1 v=12165
+42297 Pb ch=1 v=12288
+42400 Pb ch=1 v=12053
+42414 Pb ch=1 v=11117
+42429 Pb ch=1 v=9362
+42443 Pb ch=1 v=8192
+42609 Off ch=1 n=64 v=102
+42620 On ch=1 n=62 v=112
+42818 Off ch=1 n=62 v=112
+42842 On ch=1 n=64 v=94
+42914 Off ch=1 n=64 v=94
+42955 On ch=1 n=62 v=86
+43123 Off ch=1 n=62 v=86
+43201 On ch=1 n=64 v=110
+43203 Pb ch=1 v=10532
+43218 Pb ch=1 v=11919
+43233 Pb ch=1 v=12083
+43247 Pb ch=1 v=12288
+43276 Pb ch=1 v=12124
+43291 Pb ch=1 v=11351
+43306 Pb ch=1 v=9362
+43320 Pb ch=1 v=8192
+43545 Off ch=1 n=64 v=110
+43557 On ch=1 n=62 v=111
+43800 Off ch=1 n=62 v=111
+43814 On ch=1 n=64 v=102
+43912 Off ch=1 n=64 v=102
+43923 On ch=1 n=62 v=106
+44059 Off ch=1 n=62 v=106
+44159 Pb ch=1 v=9479
+44167 On ch=1 n=64 v=102
+44173 Pb ch=1 v=11117
+44187 Pb ch=1 v=12053
+44203 Pb ch=1 v=12165
+44217 Pb ch=1 v=12288
+44320 Pb ch=1 v=12053
+44334 Pb ch=1 v=11117
+44349 Pb ch=1 v=9362
+44363 Pb ch=1 v=8192
+44529 Off ch=1 n=64 v=102
+44540 On ch=1 n=62 v=112
+44738 Off ch=1 n=62 v=112
+44762 On ch=1 n=64 v=94
+44834 Off ch=1 n=64 v=94
+44875 On ch=1 n=62 v=86
+45043 Off ch=1 n=62 v=86
+45240 On ch=1 n=66 v=81
+45360 On ch=1 n=62 v=84
+45478 Off ch=1 n=62 v=84
+45480 On ch=1 n=60 v=82
+45588 Off ch=1 n=66 v=81
+45600 On ch=1 n=66 v=103
+45710 Off ch=1 n=60 v=82
+45720 On ch=1 n=62 v=84
+45838 Off ch=1 n=62 v=84
+45840 On ch=1 n=60 v=80
+45958 Off ch=1 n=60 v=80
+45960 On ch=1 n=60 v=81
+46078 Off ch=1 n=60 v=81
+46080 Off ch=1 n=66 v=103
+46080 On ch=1 n=62 v=95
+46200 On ch=1 n=69 v=84
+46310 Off ch=1 n=62 v=95
+46320 On ch=1 n=64 v=96
+46438 Off ch=1 n=64 v=96
+46440 On ch=1 n=62 v=96
+46538 Off ch=1 n=69 v=84
+46560 On ch=1 n=69 v=90
+46912 Off ch=1 n=69 v=90
+46915 Off ch=1 n=62 v=96
+46930 On ch=1 n=65 v=77
+47038 Off ch=1 n=65 v=77
+47042 On ch=1 n=66 v=80
+47160 On ch=1 n=72 v=97
+47278 Off ch=1 n=72 v=97
+47280 On ch=1 n=69 v=99
+47365 Off ch=1 n=66 v=80
+47400 On ch=1 n=66 v=99
+47505 Off ch=1 n=69 v=99
+47520 On ch=1 n=72 v=94
+47638 Off ch=1 n=72 v=94
+47640 On ch=1 n=69 v=90
+47738 Off ch=1 n=66 v=99
+47760 On ch=1 n=66 v=89
+47878 Off ch=1 n=66 v=89
+47880 On ch=1 n=66 v=85
+47988 Off ch=1 n=69 v=90
+47998 Off ch=1 n=66 v=85
+48000 On ch=1 n=69 v=82
+48120 On ch=1 n=74 v=88
+48230 Off ch=1 n=69 v=82
+48240 On ch=1 n=71 v=88
+48358 Off ch=1 n=71 v=88
+48360 On ch=1 n=69 v=88
+48458 Off ch=1 n=74 v=88
+48480 On ch=1 n=74 v=87
+48902 Off ch=1 n=74 v=87
+48903 Off ch=1 n=69 v=88
+49203 On ch=1 n=77 v=91
+49299 Off ch=1 n=77 v=91
+49441 On ch=1 n=77 v=104
+49571 Off ch=1 n=77 v=104
+49571 On ch=1 n=76 v=93
+49782 Off ch=1 n=76 v=93
+49921 On ch=1 n=77 v=104
+50059 Off ch=1 n=77 v=104
+50059 On ch=1 n=76 v=73
+50168 Off ch=1 n=76 v=73
+50298 On ch=1 n=77 v=100
+50426 Off ch=1 n=77 v=100
+50521 On ch=1 n=76 v=90
+50648 Off ch=1 n=76 v=90
+53040 On ch=1 n=65 v=81
+53158 Off ch=1 n=65 v=81
+53160 On ch=1 n=65 v=70
+53327 Off ch=1 n=65 v=70
+53400 On ch=1 n=65 v=75
+53638 Off ch=1 n=65 v=75
+53640 On ch=1 n=62 v=80
+53758 Off ch=1 n=62 v=80
+53760 On ch=1 n=65 v=73
+53878 Off ch=1 n=65 v=73
+53880 On ch=1 n=65 v=71
+53998 Off ch=1 n=65 v=71
+54000 On ch=1 n=65 v=65
+54118 Off ch=1 n=65 v=65
+54120 On ch=1 n=65 v=70
+54358 Off ch=1 n=65 v=70
+54360 On ch=1 n=65 v=70
+54478 Off ch=1 n=65 v=70
+54480 On ch=1 n=62 v=72
+54718 Off ch=1 n=62 v=72
+54720 Meta TrkEnd
+TrkEnd
+MTrk
+0 Meta TrkName "Steel-str Gt"
+0 Meta 0x20 01
+0 Meta InstrName "Steel-str Gt"
+0 KeySig 0 major
+90 Par ch=2 c=0 v=0
+95 Par ch=2 c=32 v=0
+100 PrCh ch=2 p=25
+105 Par ch=2 c=7 v=90
+110 Par ch=2 c=10 v=64
+115 Par ch=2 c=91 v=40
+120 Par ch=2 c=93 v=0
+125 Par ch=2 c=101 v=0
+125 Par ch=2 c=100 v=0
+125 Par ch=2 c=6 v=2
+130 Par ch=2 c=99 v=1
+130 Par ch=2 c=98 v=8
+130 Par ch=2 c=6 v=64
+135 Par ch=2 c=99 v=1
+135 Par ch=2 c=98 v=9
+135 Par ch=2 c=6 v=64
+140 Par ch=2 c=99 v=1
+140 Par ch=2 c=98 v=10
+140 Par ch=2 c=6 v=64
+145 Par ch=2 c=99 v=1
+145 Par ch=2 c=98 v=32
+145 Par ch=2 c=6 v=64
+150 Par ch=2 c=99 v=1
+150 Par ch=2 c=98 v=33
+150 Par ch=2 c=6 v=64
+155 Par ch=2 c=99 v=1
+155 Par ch=2 c=98 v=99
+155 Par ch=2 c=6 v=64
+160 Par ch=2 c=99 v=1
+160 Par ch=2 c=98 v=100
+160 Par ch=2 c=6 v=64
+165 Par ch=2 c=99 v=1
+165 Par ch=2 c=98 v=102
+165 Par ch=2 c=6 v=64
+11766 On ch=2 n=66 v=114
+11767 On ch=2 n=62 v=112
+11858 Off ch=2 n=62 v=112
+11865 Off ch=2 n=66 v=114
+12249 On ch=2 n=67 v=97
+12251 On ch=2 n=62 v=108
+12352 Off ch=2 n=67 v=97
+12358 Off ch=2 n=62 v=108
+12730 On ch=2 n=62 v=108
+12730 On ch=2 n=57 v=84
+12812 Off ch=2 n=57 v=84
+12824 Off ch=2 n=62 v=108
+13208 On ch=2 n=61 v=100
+13210 On ch=2 n=57 v=102
+13301 Off ch=2 n=57 v=102
+13303 Off ch=2 n=61 v=100
+13682 On ch=2 n=55 v=106
+13685 On ch=2 n=62 v=110
+13968 Off ch=2 n=55 v=106
+14049 On ch=2 n=59 v=100
+14055 Off ch=2 n=62 v=110
+14144 Off ch=2 n=59 v=100
+14179 On ch=2 n=55 v=98
+14332 Off ch=2 n=55 v=98
+14652 On ch=2 n=62 v=102
+14652 On ch=2 n=55 v=101
+14920 Off ch=2 n=55 v=101
+14926 Off ch=2 n=62 v=102
+15120 On ch=2 n=62 v=106
+15123 On ch=2 n=55 v=114
+15328 Off ch=2 n=55 v=114
+15346 Off ch=2 n=62 v=106
+15606 On ch=2 n=66 v=114
+15607 On ch=2 n=62 v=112
+15698 Off ch=2 n=62 v=112
+15705 Off ch=2 n=66 v=114
+16089 On ch=2 n=67 v=97
+16091 On ch=2 n=62 v=108
+16192 Off ch=2 n=67 v=97
+16198 Off ch=2 n=62 v=108
+16570 On ch=2 n=62 v=108
+16570 On ch=2 n=57 v=84
+16652 Off ch=2 n=57 v=84
+16664 Off ch=2 n=62 v=108
+17048 On ch=2 n=61 v=100
+17050 On ch=2 n=57 v=102
+17141 Off ch=2 n=57 v=102
+17143 Off ch=2 n=61 v=100
+17530 On ch=2 n=58 v=113
+17548 On ch=2 n=64 v=106
+17885 Off ch=2 n=58 v=113
+17916 Off ch=2 n=64 v=106
+19449 On ch=2 n=62 v=110
+19450 On ch=2 n=59 v=100
+19576 Off ch=2 n=62 v=110
+19578 Off ch=2 n=59 v=100
+19928 On ch=2 n=62 v=104
+19928 On ch=2 n=59 v=95
+20064 Off ch=2 n=59 v=95
+20073 Off ch=2 n=62 v=104
+20406 On ch=2 n=57 v=91
+20411 On ch=2 n=61 v=94
+20680 Off ch=2 n=57 v=91
+20684 Off ch=2 n=61 v=94
+20761 On ch=2 n=57 v=90
+20763 On ch=2 n=61 v=86
+20879 Off ch=2 n=61 v=86
+20879 Off ch=2 n=57 v=90
+20880 On ch=2 n=56 v=85
+20884 On ch=2 n=60 v=84
+21113 Off ch=2 n=56 v=85
+21120 Off ch=2 n=60 v=84
+21359 On ch=2 n=55 v=92
+21360 On ch=2 n=59 v=94
+21490 Off ch=2 n=55 v=92
+21493 Off ch=2 n=59 v=94
+21838 On ch=2 n=62 v=90
+21840 On ch=2 n=59 v=90
+21962 Off ch=2 n=62 v=90
+21964 Off ch=2 n=59 v=90
+22321 On ch=2 n=62 v=92
+22327 On ch=2 n=59 v=84
+22578 Off ch=2 n=62 v=92
+22594 Off ch=2 n=59 v=84
+22799 On ch=2 n=62 v=92
+22808 On ch=2 n=59 v=81
+22912 Off ch=2 n=59 v=81
+22915 Off ch=2 n=62 v=92
+23304 On ch=2 n=59 v=88
+23305 On ch=2 n=55 v=104
+23472 Off ch=2 n=59 v=88
+23473 Off ch=2 n=55 v=104
+23788 On ch=2 n=59 v=87
+23791 On ch=2 n=55 v=95
+23938 Off ch=2 n=59 v=87
+23938 Off ch=2 n=55 v=95
+24258 On ch=2 n=59 v=80
+24259 On ch=2 n=55 v=88
+24414 Off ch=2 n=59 v=80
+24419 Off ch=2 n=55 v=88
+24734 On ch=2 n=55 v=88
+24734 On ch=2 n=59 v=80
+24884 Off ch=2 n=55 v=88
+24884 Off ch=2 n=59 v=80
+25211 On ch=2 n=59 v=80
+25216 On ch=2 n=55 v=85
+25364 Off ch=2 n=59 v=80
+25372 Off ch=2 n=55 v=85
+25684 On ch=2 n=59 v=80
+25685 On ch=2 n=55 v=95
+25842 Off ch=2 n=55 v=95
+25851 Off ch=2 n=59 v=80
+27840 On ch=2 n=55 v=108
+27958 Off ch=2 n=55 v=108
+27960 On ch=2 n=57 v=92
+28080 On ch=2 n=61 v=101
+28200 Off ch=2 n=57 v=92
+28200 On ch=2 n=54 v=95
+28318 Off ch=2 n=54 v=95
+28320 On ch=2 n=57 v=98
+28423 Off ch=2 n=61 v=101
+28440 On ch=2 n=61 v=107
+28555 Off ch=2 n=57 v=98
+28560 On ch=2 n=55 v=100
+28678 Off ch=2 n=55 v=100
+28680 On ch=2 n=57 v=92
+28797 Off ch=2 n=61 v=107
+28800 On ch=2 n=61 v=112
+28920 On ch=2 n=52 v=114
+29018 Off ch=2 n=57 v=92
+29040 On ch=2 n=57 v=100
+29153 Off ch=2 n=61 v=112
+29160 On ch=2 n=61 v=99
+29261 Off ch=2 n=57 v=100
+29280 On ch=2 n=59 v=94
+29390 Off ch=2 n=61 v=99
+29398 Off ch=2 n=59 v=94
+29400 On ch=2 n=61 v=104
+29400 On ch=2 n=57 v=91
+29512 Off ch=2 n=52 v=114
+29518 Off ch=2 n=57 v=91
+29520 On ch=2 n=54 v=119
+29630 Off ch=2 n=61 v=104
+29638 Off ch=2 n=54 v=119
+29640 On ch=2 n=52 v=95
+29640 On ch=2 n=57 v=97
+29758 Off ch=2 n=52 v=95
+29758 Off ch=2 n=57 v=97
+30006 On ch=2 n=66 v=114
+30007 On ch=2 n=62 v=112
+30098 Off ch=2 n=62 v=112
+30105 Off ch=2 n=66 v=114
+30489 On ch=2 n=67 v=97
+30491 On ch=2 n=62 v=108
+30592 Off ch=2 n=67 v=97
+30598 Off ch=2 n=62 v=108
+30970 On ch=2 n=62 v=108
+30970 On ch=2 n=57 v=84
+31052 Off ch=2 n=57 v=84
+31064 Off ch=2 n=62 v=108
+31448 On ch=2 n=61 v=100
+31450 On ch=2 n=57 v=102
+31541 Off ch=2 n=57 v=102
+31543 Off ch=2 n=61 v=100
+31922 On ch=2 n=55 v=106
+31925 On ch=2 n=62 v=110
+32208 Off ch=2 n=55 v=106
+32289 On ch=2 n=59 v=100
+32295 Off ch=2 n=62 v=110
+32384 Off ch=2 n=59 v=100
+32419 On ch=2 n=55 v=98
+32572 Off ch=2 n=55 v=98
+32647 On ch=2 n=62 v=85
+32648 On ch=2 n=50 v=94
+32648 On ch=2 n=57 v=92
+32812 Off ch=2 n=62 v=85
+32825 Off ch=2 n=57 v=92
+32832 Off ch=2 n=50 v=94
+33006 On ch=2 n=50 v=100
+33006 On ch=2 n=62 v=84
+33006 On ch=2 n=57 v=90
+33190 Off ch=2 n=50 v=100
+33226 Off ch=2 n=57 v=90
+33233 Off ch=2 n=62 v=84
+33367 On ch=2 n=57 v=101
+33368 On ch=2 n=62 v=101
+33368 On ch=2 n=50 v=109
+33529 Off ch=2 n=62 v=101
+33550 Off ch=2 n=50 v=109
+33564 Off ch=2 n=57 v=101
+33846 On ch=2 n=66 v=114
+33847 On ch=2 n=62 v=112
+33938 Off ch=2 n=62 v=112
+33945 Off ch=2 n=66 v=114
+34329 On ch=2 n=67 v=97
+34331 On ch=2 n=62 v=108
+34432 Off ch=2 n=67 v=97
+34438 Off ch=2 n=62 v=108
+34810 On ch=2 n=62 v=108
+34810 On ch=2 n=57 v=84
+34892 Off ch=2 n=57 v=84
+34904 Off ch=2 n=62 v=108
+35288 On ch=2 n=61 v=100
+35290 On ch=2 n=57 v=102
+35381 Off ch=2 n=57 v=102
+35383 Off ch=2 n=61 v=100
+35770 On ch=2 n=58 v=113
+35788 On ch=2 n=64 v=106
+36125 Off ch=2 n=58 v=113
+36156 Off ch=2 n=64 v=106
+37689 On ch=2 n=62 v=110
+37690 On ch=2 n=59 v=100
+37816 Off ch=2 n=62 v=110
+37818 Off ch=2 n=59 v=100
+38168 On ch=2 n=62 v=104
+38168 On ch=2 n=59 v=95
+38304 Off ch=2 n=59 v=95
+38313 Off ch=2 n=62 v=104
+38646 On ch=2 n=57 v=91
+38651 On ch=2 n=61 v=94
+38920 Off ch=2 n=57 v=91
+38924 Off ch=2 n=61 v=94
+39001 On ch=2 n=57 v=90
+39003 On ch=2 n=61 v=86
+39119 Off ch=2 n=61 v=86
+39119 Off ch=2 n=57 v=90
+39120 On ch=2 n=56 v=85
+39124 On ch=2 n=60 v=84
+39353 Off ch=2 n=56 v=85
+39360 Off ch=2 n=60 v=84
+39599 On ch=2 n=55 v=92
+39600 On ch=2 n=59 v=94
+39730 Off ch=2 n=55 v=92
+39733 Off ch=2 n=59 v=94
+40078 On ch=2 n=62 v=90
+40080 On ch=2 n=59 v=90
+40202 Off ch=2 n=62 v=90
+40204 Off ch=2 n=59 v=90
+40561 On ch=2 n=62 v=92
+40567 On ch=2 n=59 v=84
+40818 Off ch=2 n=62 v=92
+40834 Off ch=2 n=59 v=84
+41039 On ch=2 n=62 v=92
+41048 On ch=2 n=59 v=81
+41152 Off ch=2 n=59 v=81
+41155 Off ch=2 n=62 v=92
+41544 On ch=2 n=59 v=88
+41545 On ch=2 n=55 v=104
+41712 Off ch=2 n=59 v=88
+41713 Off ch=2 n=55 v=104
+42028 On ch=2 n=59 v=87
+42031 On ch=2 n=55 v=95
+42178 Off ch=2 n=59 v=87
+42178 Off ch=2 n=55 v=95
+42498 On ch=2 n=59 v=80
+42499 On ch=2 n=55 v=88
+42654 Off ch=2 n=59 v=80
+42659 Off ch=2 n=55 v=88
+42974 On ch=2 n=55 v=88
+42974 On ch=2 n=59 v=80
+43124 Off ch=2 n=55 v=88
+43124 Off ch=2 n=59 v=80
+43451 On ch=2 n=59 v=80
+43456 On ch=2 n=55 v=85
+43604 Off ch=2 n=59 v=80
+43612 Off ch=2 n=55 v=85
+43924 On ch=2 n=59 v=80
+43925 On ch=2 n=55 v=95
+44082 Off ch=2 n=55 v=95
+44091 Off ch=2 n=59 v=80
+44418 On ch=2 n=59 v=80
+44419 On ch=2 n=55 v=88
+44574 Off ch=2 n=59 v=80
+44579 Off ch=2 n=55 v=88
+44894 On ch=2 n=55 v=88
+44894 On ch=2 n=59 v=80
+45044 Off ch=2 n=55 v=88
+45044 Off ch=2 n=59 v=80
+47052 On ch=2 n=50 v=127
+48903 Off ch=2 n=50 v=127
+49207 On ch=2 n=62 v=90
+49207 On ch=2 n=67 v=81
+49300 Off ch=2 n=67 v=81
+49311 Off ch=2 n=62 v=90
+49684 On ch=2 n=55 v=68
+49689 On ch=2 n=62 v=85
+49689 On ch=2 n=67 v=80
+49775 Off ch=2 n=67 v=80
+49782 Off ch=2 n=55 v=68
+49791 Off ch=2 n=62 v=85
+50168 On ch=2 n=62 v=88
+50169 On ch=2 n=67 v=85
+50250 Off ch=2 n=62 v=88
+50251 Off ch=2 n=67 v=85
+50645 On ch=2 n=55 v=67
+50649 On ch=2 n=62 v=86
+50649 On ch=2 n=67 v=80
+50726 Off ch=2 n=55 v=67
+50731 Off ch=2 n=67 v=80
+50734 Off ch=2 n=62 v=86
+51008 On ch=2 n=65 v=108
+51121 Off ch=2 n=65 v=108
+51121 On ch=2 n=64 v=107
+51236 Off ch=2 n=64 v=107
+51245 On ch=2 n=60 v=103
+51346 Off ch=2 n=60 v=103
+51362 On ch=2 n=60 v=94
+51478 Off ch=2 n=60 v=94
+51483 On ch=2 n=59 v=94
+51600 On ch=2 n=57 v=85
+51665 Off ch=2 n=59 v=94
+51714 Off ch=2 n=57 v=85
+51719 On ch=2 n=55 v=98
+51849 On ch=2 n=53 v=116
+51876 Off ch=2 n=55 v=98
+51960 Off ch=2 n=53 v=116
+51960 On ch=2 n=54 v=104
+52082 On ch=2 n=57 v=86
+52135 Off ch=2 n=54 v=104
+52199 On ch=2 n=53 v=116
+52318 Off ch=2 n=57 v=86
+52321 Off ch=2 n=53 v=116
+52321 On ch=2 n=54 v=91
+52441 On ch=2 n=57 v=97
+52494 Off ch=2 n=54 v=91
+52563 On ch=2 n=48 v=108
+52646 Off ch=2 n=57 v=97
+52796 Off ch=2 n=48 v=108
+53040 On ch=2 n=55 v=81
+53040 On ch=2 n=59 v=81
+53158 Off ch=2 n=55 v=81
+53158 Off ch=2 n=59 v=81
+53160 On ch=2 n=55 v=70
+53160 On ch=2 n=59 v=70
+53327 Off ch=2 n=55 v=70
+53327 Off ch=2 n=59 v=70
+53400 On ch=2 n=55 v=75
+53400 On ch=2 n=59 v=75
+53638 Off ch=2 n=55 v=75
+53638 Off ch=2 n=59 v=75
+53640 On ch=2 n=55 v=80
+53640 On ch=2 n=59 v=80
+53758 Off ch=2 n=55 v=80
+53758 Off ch=2 n=59 v=80
+53760 On ch=2 n=55 v=73
+53760 On ch=2 n=59 v=73
+53878 Off ch=2 n=55 v=73
+53878 Off ch=2 n=59 v=73
+53880 On ch=2 n=55 v=71
+53880 On ch=2 n=59 v=71
+53998 Off ch=2 n=55 v=71
+53998 Off ch=2 n=59 v=71
+54000 On ch=2 n=55 v=65
+54000 On ch=2 n=59 v=65
+54118 Off ch=2 n=55 v=65
+54118 Off ch=2 n=59 v=65
+54120 On ch=2 n=55 v=70
+54120 On ch=2 n=59 v=70
+54358 Off ch=2 n=55 v=70
+54358 Off ch=2 n=59 v=70
+54360 On ch=2 n=55 v=70
+54360 On ch=2 n=59 v=70
+54478 Off ch=2 n=55 v=70
+54478 Off ch=2 n=59 v=70
+54480 On ch=2 n=55 v=72
+54480 On ch=2 n=59 v=72
+54718 Off ch=2 n=55 v=72
+54718 Off ch=2 n=59 v=72
+54720 Meta TrkEnd
+TrkEnd
+MTrk
+0 Meta TrkName "Steel-str Gt"
+0 Meta 0x20 02
+0 Meta InstrName "Steel-str Gt"
+0 KeySig 0 major
+170 Par ch=3 c=0 v=0
+175 Par ch=3 c=32 v=127
+180 PrCh ch=3 p=25
+185 Par ch=3 c=7 v=97
+190 Par ch=3 c=10 v=69
+195 Par ch=3 c=91 v=40
+200 Par ch=3 c=93 v=0
+205 Par ch=3 c=101 v=0
+205 Par ch=3 c=100 v=0
+205 Par ch=3 c=6 v=2
+210 Par ch=3 c=99 v=1
+210 Par ch=3 c=98 v=8
+210 Par ch=3 c=6 v=64
+215 Par ch=3 c=99 v=1
+215 Par ch=3 c=98 v=9
+215 Par ch=3 c=6 v=64
+220 Par ch=3 c=99 v=1
+220 Par ch=3 c=98 v=10
+220 Par ch=3 c=6 v=64
+225 Par ch=3 c=99 v=1
+225 Par ch=3 c=98 v=32
+225 Par ch=3 c=6 v=64
+230 Par ch=3 c=99 v=1
+230 Par ch=3 c=98 v=33
+230 Par ch=3 c=6 v=64
+235 Par ch=3 c=99 v=1
+235 Par ch=3 c=98 v=99
+235 Par ch=3 c=6 v=64
+240 Par ch=3 c=99 v=1
+240 Par ch=3 c=98 v=100
+240 Par ch=3 c=6 v=64
+245 Par ch=3 c=99 v=1
+245 Par ch=3 c=98 v=102
+245 Par ch=3 c=6 v=64
+10801 On ch=3 n=45 v=108
+10940 Off ch=3 n=45 v=108
+11042 On ch=3 n=47 v=112
+11161 Off ch=3 n=47 v=112
+11283 On ch=3 n=49 v=110
+11421 Off ch=3 n=49 v=110
+11534 On ch=3 n=50 v=106
+11723 Off ch=3 n=50 v=106
+12026 On ch=3 n=55 v=106
+12243 Off ch=3 n=55 v=106
+12494 On ch=3 n=54 v=102
+12707 Off ch=3 n=54 v=102
+12948 On ch=3 n=52 v=98
+13163 Off ch=3 n=52 v=98
+13441 On ch=3 n=50 v=111
+13727 Off ch=3 n=50 v=111
+14405 On ch=3 n=45 v=91
+14632 Off ch=3 n=45 v=91
+14643 On ch=3 n=50 v=86
+14876 Off ch=3 n=50 v=86
+14881 On ch=3 n=45 v=94
+15115 Off ch=3 n=45 v=94
+15116 On ch=3 n=50 v=76
+15348 Off ch=3 n=50 v=76
+15363 On ch=3 n=57 v=120
+15534 Off ch=3 n=57 v=120
+15842 On ch=3 n=55 v=108
+16037 Off ch=3 n=55 v=108
+16327 On ch=3 n=54 v=106
+16525 Off ch=3 n=54 v=106
+16803 On ch=3 n=52 v=120
+17012 Off ch=3 n=52 v=120
+17279 On ch=3 n=54 v=108
+17491 Off ch=3 n=54 v=108
+17763 On ch=3 n=49 v=114
+17965 Off ch=3 n=49 v=114
+18249 On ch=3 n=54 v=104
+18435 Off ch=3 n=54 v=104
+18843 On ch=3 n=49 v=104
+18924 Off ch=3 n=49 v=104
+18963 On ch=3 n=48 v=97
+19194 Off ch=3 n=48 v=97
+19202 On ch=3 n=47 v=118
+19378 Off ch=3 n=47 v=118
+19677 On ch=3 n=47 v=117
+19829 Off ch=3 n=47 v=117
+20164 On ch=3 n=45 v=117
+20537 Off ch=3 n=45 v=117
+20748 On ch=3 n=45 v=114
+20872 Off ch=3 n=45 v=114
+20877 On ch=3 n=44 v=112
+21099 Off ch=3 n=44 v=112
+21120 On ch=3 n=43 v=99
+21285 Off ch=3 n=43 v=99
+21600 On ch=3 n=43 v=98
+21797 Off ch=3 n=43 v=98
+22081 On ch=3 n=47 v=110
+22331 Off ch=3 n=47 v=110
+22568 On ch=3 n=42 v=80
+22787 Off ch=3 n=42 v=80
+23040 On ch=3 n=43 v=119
+23245 Off ch=3 n=43 v=119
+23526 On ch=3 n=43 v=104
+23731 Off ch=3 n=43 v=104
+24008 On ch=3 n=43 v=106
+24216 Off ch=3 n=43 v=106
+24484 On ch=3 n=43 v=97
+24649 Off ch=3 n=43 v=97
+24982 On ch=3 n=43 v=102
+25137 Off ch=3 n=43 v=102
+25477 On ch=3 n=43 v=106
+25644 Off ch=3 n=43 v=106
+29774 On ch=3 n=50 v=106
+29963 Off ch=3 n=50 v=106
+30266 On ch=3 n=55 v=106
+30483 Off ch=3 n=55 v=106
+30734 On ch=3 n=54 v=102
+30947 Off ch=3 n=54 v=102
+31188 On ch=3 n=52 v=98
+31403 Off ch=3 n=52 v=98
+31681 On ch=3 n=50 v=127
+32011 Off ch=3 n=50 v=127
+32645 On ch=3 n=45 v=91
+32872 Off ch=3 n=45 v=91
+32883 On ch=3 n=50 v=86
+33116 Off ch=3 n=50 v=86
+33121 On ch=3 n=45 v=94
+33355 Off ch=3 n=45 v=94
+33356 On ch=3 n=50 v=76
+33588 Off ch=3 n=50 v=76
+33603 On ch=3 n=57 v=120
+33774 Off ch=3 n=57 v=120
+34082 On ch=3 n=55 v=108
+34277 Off ch=3 n=55 v=108
+34567 On ch=3 n=54 v=106
+34765 Off ch=3 n=54 v=106
+35043 On ch=3 n=52 v=120
+35252 Off ch=3 n=52 v=120
+35519 On ch=3 n=54 v=108
+35731 Off ch=3 n=54 v=108
+36003 On ch=3 n=49 v=114
+36205 Off ch=3 n=49 v=114
+36489 On ch=3 n=54 v=104
+36675 Off ch=3 n=54 v=104
+37083 On ch=3 n=49 v=104
+37164 Off ch=3 n=49 v=104
+37203 On ch=3 n=48 v=97
+37434 Off ch=3 n=48 v=97
+37442 On ch=3 n=47 v=118
+37618 Off ch=3 n=47 v=118
+37917 On ch=3 n=47 v=117
+38069 Off ch=3 n=47 v=117
+38404 On ch=3 n=45 v=117
+38777 Off ch=3 n=45 v=117
+38988 On ch=3 n=45 v=114
+39112 Off ch=3 n=45 v=114
+39117 On ch=3 n=44 v=112
+39339 Off ch=3 n=44 v=112
+39360 On ch=3 n=43 v=99
+39525 Off ch=3 n=43 v=99
+39840 On ch=3 n=43 v=98
+40037 Off ch=3 n=43 v=98
+40321 On ch=3 n=47 v=110
+40571 Off ch=3 n=47 v=110
+40804 On ch=3 n=42 v=86
+41042 Off ch=3 n=42 v=86
+41280 On ch=3 n=43 v=119
+41485 Off ch=3 n=43 v=119
+41766 On ch=3 n=43 v=104
+41971 Off ch=3 n=43 v=104
+42248 On ch=3 n=43 v=106
+42456 Off ch=3 n=43 v=106
+42724 On ch=3 n=43 v=97
+42889 Off ch=3 n=43 v=97
+43222 On ch=3 n=43 v=102
+43377 Off ch=3 n=43 v=102
+43717 On ch=3 n=43 v=106
+43884 Off ch=3 n=43 v=106
+44168 On ch=3 n=43 v=106
+44376 Off ch=3 n=43 v=106
+44644 On ch=3 n=43 v=97
+44809 Off ch=3 n=43 v=97
+45120 On ch=3 n=45 v=99
+46894 Off ch=3 n=45 v=99
+48961 On ch=3 n=55 v=104
+49087 Off ch=3 n=55 v=104
+49440 On ch=3 n=50 v=92
+49587 Off ch=3 n=50 v=92
+49921 On ch=3 n=55 v=102
+50041 Off ch=3 n=55 v=102
+50401 On ch=3 n=50 v=108
+50529 Off ch=3 n=50 v=108
+50880 On ch=3 n=50 v=110
+52448 Off ch=3 n=50 v=110
+52810 On ch=3 n=47 v=122
+53102 Off ch=3 n=47 v=122
+54720 Meta TrkEnd
+TrkEnd
+MTrk
+0 Meta TrkName "Screaming"
+0 Meta 0x20 03
+0 Meta InstrName "Screaming"
+0 KeySig 0 major
+250 Par ch=4 c=0 v=2
+255 Par ch=4 c=32 v=127
+260 PrCh ch=4 p=126
+265 Par ch=4 c=7 v=87
+270 Par ch=4 c=10 v=76
+275 Par ch=4 c=91 v=69
+280 Par ch=4 c=93 v=0
+285 Par ch=4 c=101 v=0
+285 Par ch=4 c=100 v=0
+285 Par ch=4 c=6 v=2
+290 Par ch=4 c=99 v=1
+290 Par ch=4 c=98 v=8
+290 Par ch=4 c=6 v=64
+295 Par ch=4 c=99 v=1
+295 Par ch=4 c=98 v=9
+295 Par ch=4 c=6 v=64
+300 Par ch=4 c=99 v=1
+300 Par ch=4 c=98 v=10
+300 Par ch=4 c=6 v=64
+305 Par ch=4 c=99 v=1
+305 Par ch=4 c=98 v=32
+305 Par ch=4 c=6 v=64
+310 Par ch=4 c=99 v=1
+310 Par ch=4 c=98 v=33
+310 Par ch=4 c=6 v=64
+315 Par ch=4 c=99 v=1
+315 Par ch=4 c=98 v=99
+315 Par ch=4 c=6 v=64
+320 Par ch=4 c=99 v=1
+320 Par ch=4 c=98 v=100
+320 Par ch=4 c=6 v=64
+325 Par ch=4 c=99 v=1
+325 Par ch=4 c=98 v=102
+325 Par ch=4 c=6 v=64
+11760 On ch=4 n=70 v=113
+13080 Off ch=4 n=70 v=113
+15390 On ch=4 n=64 v=60
+16746 Off ch=4 n=64 v=60
+54720 Meta TrkEnd
+TrkEnd
+MTrk
+0 Meta TrkName "Applause"
+0 Meta 0x20 04
+0 Meta InstrName "Applause"
+0 KeySig 0 major
+330 Par ch=5 c=0 v=0
+335 Par ch=5 c=32 v=127
+340 PrCh ch=5 p=126
+345 Par ch=5 c=7 v=67
+350 Par ch=5 c=10 v=64
+355 Par ch=5 c=91 v=40
+360 Par ch=5 c=93 v=0
+365 Par ch=5 c=101 v=0
+365 Par ch=5 c=100 v=0
+365 Par ch=5 c=6 v=2
+370 Par ch=5 c=99 v=1
+370 Par ch=5 c=98 v=8
+370 Par ch=5 c=6 v=64
+375 Par ch=5 c=99 v=1
+375 Par ch=5 c=98 v=9
+375 Par ch=5 c=6 v=64
+380 Par ch=5 c=99 v=1
+380 Par ch=5 c=98 v=10
+380 Par ch=5 c=6 v=64
+385 Par ch=5 c=99 v=1
+385 Par ch=5 c=98 v=32
+385 Par ch=5 c=6 v=64
+390 Par ch=5 c=99 v=1
+390 Par ch=5 c=98 v=33
+390 Par ch=5 c=6 v=64
+395 Par ch=5 c=99 v=1
+395 Par ch=5 c=98 v=99
+395 Par ch=5 c=6 v=64
+400 Par ch=5 c=99 v=1
+400 Par ch=5 c=98 v=100
+400 Par ch=5 c=6 v=64
+405 Par ch=5 c=99 v=1
+405 Par ch=5 c=98 v=102
+405 Par ch=5 c=6 v=64
+1920 Par ch=5 c=7 v=80
+1920 On ch=5 n=60 v=98
+3840 On ch=5 n=58 v=74
+11759 On ch=5 n=54 v=116
+12162 On ch=5 n=68 v=116
+12681 On ch=5 n=71 v=93
+17067 Par ch=5 c=7 v=80
+17347 Par ch=5 c=7 v=78
+17474 Par ch=5 c=7 v=75
+17677 Par ch=5 c=7 v=73
+17854 Par ch=5 c=7 v=70
+18007 Par ch=5 c=7 v=68
+18180 Par ch=5 c=7 v=65
+18338 Par ch=5 c=7 v=63
+18618 Par ch=5 c=7 v=60
+18769 Par ch=5 c=7 v=58
+18924 Par ch=5 c=7 v=55
+19127 Par ch=5 c=7 v=53
+19280 Par ch=5 c=7 v=50
+19457 Par ch=5 c=7 v=48
+19609 Par ch=5 c=7 v=45
+19762 Par ch=5 c=7 v=43
+19889 Par ch=5 c=7 v=40
+20017 Par ch=5 c=7 v=38
+20195 Par ch=5 c=7 v=35
+20322 Par ch=5 c=7 v=33
+20449 Par ch=5 c=7 v=30
+20601 Par ch=5 c=7 v=28
+20830 Par ch=5 c=7 v=25
+20984 Par ch=5 c=7 v=23
+21112 Par ch=5 c=7 v=20
+21238 Par ch=5 c=7 v=18
+21392 Par ch=5 c=7 v=15
+21467 Par ch=5 c=7 v=12
+21544 Par ch=5 c=7 v=9
+21672 Par ch=5 c=7 v=6
+21747 Par ch=5 c=7 v=4
+21900 Par ch=5 c=7 v=1
+23040 Off ch=5 n=71 v=93
+23040 Off ch=5 n=68 v=116
+23040 Off ch=5 n=54 v=116
+23040 Off ch=5 n=58 v=74
+23040 Off ch=5 n=60 v=98
+54720 Meta TrkEnd
+TrkEnd
+MTrk
+0 Meta TrkName "Laughing"
+0 Meta 0x20 05
+0 Meta InstrName "Laughing"
+0 KeySig 0 major
+410 Par ch=6 c=0 v=1
+415 Par ch=6 c=32 v=127
+420 PrCh ch=6 p=126
+425 Par ch=6 c=7 v=87
+430 Par ch=6 c=10 v=48
+435 Par ch=6 c=91 v=78
+440 Par ch=6 c=93 v=0
+445 Par ch=6 c=101 v=0
+445 Par ch=6 c=100 v=0
+445 Par ch=6 c=6 v=2
+450 Par ch=6 c=99 v=1
+450 Par ch=6 c=98 v=8
+450 Par ch=6 c=6 v=64
+455 Par ch=6 c=99 v=1
+455 Par ch=6 c=98 v=9
+455 Par ch=6 c=6 v=64
+460 Par ch=6 c=99 v=1
+460 Par ch=6 c=98 v=10
+460 Par ch=6 c=6 v=64
+465 Par ch=6 c=99 v=1
+465 Par ch=6 c=98 v=32
+465 Par ch=6 c=6 v=64
+470 Par ch=6 c=99 v=1
+470 Par ch=6 c=98 v=33
+470 Par ch=6 c=6 v=64
+475 Par ch=6 c=99 v=1
+475 Par ch=6 c=98 v=99
+475 Par ch=6 c=6 v=64
+480 Par ch=6 c=99 v=1
+480 Par ch=6 c=98 v=100
+480 Par ch=6 c=6 v=64
+485 Par ch=6 c=99 v=1
+485 Par ch=6 c=98 v=102
+485 Par ch=6 c=6 v=64
+3448 On ch=6 n=53 v=127
+3647 Off ch=6 n=53 v=127
+3956 On ch=6 n=52 v=120
+4181 Off ch=6 n=52 v=120
+54720 Meta TrkEnd
+TrkEnd
+MTrk
+0 Meta TrkName "Whistle"
+0 Meta 0x20 06
+0 Meta InstrName "Whistle"
+0 KeySig 0 major
+490 Par ch=7 c=0 v=0
+495 Par ch=7 c=32 v=0
+500 PrCh ch=7 p=78
+505 Par ch=7 c=7 v=90
+510 Par ch=7 c=10 v=79
+515 Par ch=7 c=91 v=85
+520 Par ch=7 c=93 v=19
+525 Par ch=7 c=101 v=0
+525 Par ch=7 c=100 v=0
+525 Par ch=7 c=6 v=2
+530 Par ch=7 c=99 v=1
+530 Par ch=7 c=98 v=8
+530 Par ch=7 c=6 v=64
+535 Par ch=7 c=99 v=1
+535 Par ch=7 c=98 v=9
+535 Par ch=7 c=6 v=64
+540 Par ch=7 c=99 v=1
+540 Par ch=7 c=98 v=10
+540 Par ch=7 c=6 v=64
+545 Par ch=7 c=99 v=1
+545 Par ch=7 c=98 v=32
+545 Par ch=7 c=6 v=64
+550 Par ch=7 c=99 v=1
+550 Par ch=7 c=98 v=33
+550 Par ch=7 c=6 v=64
+555 Par ch=7 c=99 v=1
+555 Par ch=7 c=98 v=99
+555 Par ch=7 c=6 v=64
+560 Par ch=7 c=99 v=1
+560 Par ch=7 c=98 v=100
+560 Par ch=7 c=6 v=64
+565 Par ch=7 c=99 v=1
+565 Par ch=7 c=98 v=102
+565 Par ch=7 c=6 v=64
+5771 On ch=7 n=103 v=108
+5910 Pb ch=7 v=8309
+5934 Pb ch=7 v=8660
+5986 Pb ch=7 v=9128
+6037 Pb ch=7 v=9713
+6062 Pb ch=7 v=10064
+6087 Pb ch=7 v=10415
+6138 Pb ch=7 v=10766
+6164 Pb ch=7 v=10883
+6214 Pb ch=7 v=11351
+6240 Pb ch=7 v=11585
+6266 Pb ch=7 v=11702
+6342 Pb ch=7 v=11936
+6444 Pb ch=7 v=11702
+6469 Pb ch=7 v=11468
+6494 Pb ch=7 v=11351
+6520 Pb ch=7 v=11000
+6546 Pb ch=7 v=10766
+6570 Pb ch=7 v=10649
+6622 Pb ch=7 v=10415
+6697 Pb ch=7 v=10181
+6722 Pb ch=7 v=9947
+6799 Off ch=7 n=103 v=108
+6826 Pb ch=7 v=9830
+6877 Pb ch=7 v=9479
+6901 Pb ch=7 v=9128
+6926 Pb ch=7 v=8660
+6952 Pb ch=7 v=8192
+9502 On ch=7 n=106 v=79
+9542 Pb ch=7 v=8660
+9567 Pb ch=7 v=8894
+9594 Pb ch=7 v=9245
+9618 Pb ch=7 v=9713
+9644 Pb ch=7 v=10064
+9669 Pb ch=7 v=10181
+9771 Pb ch=7 v=10415
+9822 Pb ch=7 v=10649
+9974 Pb ch=7 v=10298
+10000 Pb ch=7 v=9362
+10026 Pb ch=7 v=8660
+10050 Pb ch=7 v=8192
+10096 Pb ch=7 v=6595
+10148 Pb ch=7 v=5571
+10226 Pb ch=7 v=4342
+10304 Pb ch=7 v=3584
+10375 Pb ch=7 v=2826
+10495 Pb ch=7 v=2458
+10586 Pb ch=7 v=1925
+10750 Off ch=7 n=106 v=79
+11040 Pb ch=7 v=8192
+54720 Meta TrkEnd
+TrkEnd
+MTrk
+0 Meta TrkName "Drums"
+0 Meta 0x20 09
+0 Meta InstrName "Drums"
+0 KeySig 0 major
+570 Par ch=10 c=7 v=107
+575 Par ch=10 c=10 v=64
+580 Par ch=10 c=91 v=40
+585 Par ch=10 c=93 v=0
+590 Par ch=10 c=101 v=0
+590 Par ch=10 c=100 v=0
+590 Par ch=10 c=6 v=2
+595 Par ch=10 c=99 v=1
+595 Par ch=10 c=98 v=8
+595 Par ch=10 c=6 v=64
+600 Par ch=10 c=99 v=1
+600 Par ch=10 c=98 v=9
+600 Par ch=10 c=6 v=64
+605 Par ch=10 c=99 v=1
+605 Par ch=10 c=98 v=10
+605 Par ch=10 c=6 v=64
+610 Par ch=10 c=99 v=1
+610 Par ch=10 c=98 v=32
+610 Par ch=10 c=6 v=64
+615 Par ch=10 c=99 v=1
+615 Par ch=10 c=98 v=33
+615 Par ch=10 c=6 v=64
+620 Par ch=10 c=99 v=1
+620 Par ch=10 c=98 v=99
+620 Par ch=10 c=6 v=64
+625 Par ch=10 c=99 v=1
+625 Par ch=10 c=98 v=100
+625 Par ch=10 c=6 v=64
+630 Par ch=10 c=99 v=1
+630 Par ch=10 c=98 v=102
+630 Par ch=10 c=6 v=64
+54720 Meta TrkEnd
+TrkEnd

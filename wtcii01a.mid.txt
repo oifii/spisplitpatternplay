@@ -1,0 +1,2110 @@
+MFile 1 3 120
+MTrk
+0 Meta SeqName "untitled"
+0 TimeSig 4/4 24 8
+0 KeySig 0 major
+0 Tempo 909091
+2 Tempo 857143
+241 Tempo 1257862
+244 Tempo 794702
+251 Tempo 774194
+252 Tempo 769231
+260 Tempo 745342
+261 Tempo 740741
+268 Tempo 759494
+276 Tempo 779221
+283 Tempo 794702
+290 Tempo 810811
+291 Tempo 816327
+298 Tempo 833333
+308 Tempo 857143
+482 Tempo 1269841
+484 Tempo 784314
+485 Tempo 779221
+487 Tempo 774194
+491 Tempo 759494
+492 Tempo 754717
+497 Tempo 740741
+498 Tempo 736196
+500 Tempo 731707
+501 Tempo 727273
+502 Tempo 722892
+513 Tempo 759494
+515 Tempo 764331
+516 Tempo 769231
+525 Tempo 800000
+526 Tempo 805369
+533 Tempo 827586
+540 Tempo 857143
+541 Tempo 863309
+543 Tempo 869565
+545 Tempo 875912
+546 Tempo 882353
+548 Tempo 888889
+550 Tempo 875912
+1201 Tempo 1269841
+1203 Tempo 764331
+1206 Tempo 754717
+1210 Tempo 745342
+1215 Tempo 731707
+1216 Tempo 727273
+1218 Tempo 722892
+1228 Tempo 745342
+1233 Tempo 759494
+1240 Tempo 779221
+1241 Tempo 789474
+1246 Tempo 805369
+1250 Tempo 816327
+1251 Tempo 821918
+1256 Tempo 839161
+1261 Tempo 857143
+1263 Tempo 869565
+2118 Tempo 848656
+2121 Tempo 854701
+2138 Tempo 860832
+2150 Tempo 879765
+2156 Tempo 1207243
+2175 Tempo 944882
+2177 Tempo 833333
+2190 Tempo 816327
+2198 Tempo 805369
+2211 Tempo 789474
+2222 Tempo 800000
+2232 Tempo 810811
+2242 Tempo 821918
+2252 Tempo 833333
+2262 Tempo 845070
+2267 Tempo 851064
+2662 Tempo 1013514
+2663 Tempo 1039861
+2665 Tempo 1048951
+2666 Tempo 1058201
+2670 Tempo 1067616
+2673 Tempo 1077199
+2680 Tempo 972447
+2681 Tempo 941915
+2682 Tempo 913242
+2683 Tempo 899550
+2685 Tempo 886263
+2686 Tempo 873362
+2687 Tempo 867052
+2688 Tempo 854701
+2693 Tempo 831025
+2696 Tempo 825309
+2697 Tempo 819672
+2732 Tempo 819672
+2736 Tempo 825309
+2738 Tempo 831025
+2742 Tempo 842697
+2745 Tempo 848656
+2860 Tempo 867052
+2872 Tempo 886263
+2880 Tempo 899550
+2887 Tempo 892857
+2890 Tempo 886263
+2892 Tempo 879765
+2893 Tempo 873362
+2896 Tempo 867052
+2897 Tempo 860832
+2898 Tempo 854701
+2900 Tempo 848656
+2922 Tempo 860832
+2930 Tempo 867052
+2935 Tempo 873362
+2943 Tempo 892857
+2947 Tempo 899550
+2948 Tempo 906344
+2960 Tempo 913242
+2965 Tempo 920245
+2997 Tempo 913242
+3002 Tempo 906344
+3005 Tempo 899550
+3007 Tempo 892857
+3008 Tempo 886263
+3010 Tempo 879765
+3012 Tempo 873362
+3013 Tempo 867052
+3016 Tempo 860832
+3017 Tempo 854701
+3018 Tempo 848656
+3021 Tempo 842697
+3023 Tempo 836820
+3026 Tempo 831025
+3035 Tempo 825309
+3058 Tempo 819672
+3082 Tempo 825309
+3090 Tempo 831025
+3095 Tempo 836820
+3098 Tempo 842697
+3300 Tempo 848656
+3308 Tempo 854701
+3316 Tempo 860832
+3323 Tempo 867052
+3328 Tempo 873362
+3347 Tempo 867052
+3352 Tempo 860832
+3357 Tempo 854701
+3363 Tempo 848656
+3365 Tempo 842697
+3846 Tempo 972447
+3847 Tempo 1030928
+3851 Tempo 1013514
+3852 Tempo 729927
+3853 Tempo 725514
+3855 Tempo 716846
+3856 Tempo 712589
+3857 Tempo 704225
+3871 Tempo 708383
+3876 Tempo 712589
+3877 Tempo 716846
+3878 Tempo 721154
+3880 Tempo 729927
+3882 Tempo 734394
+3883 Tempo 743494
+3885 Tempo 748130
+3886 Tempo 752823
+3887 Tempo 762389
+3888 Tempo 767263
+3890 Tempo 772201
+3891 Tempo 777202
+3892 Tempo 787402
+3895 Tempo 797872
+3897 Tempo 808625
+3898 Tempo 814111
+3900 Tempo 819672
+3901 Tempo 825309
+3902 Tempo 831025
+3905 Tempo 836820
+3910 Tempo 842697
+3912 Tempo 848656
+3916 Tempo 854701
+4708 Tempo 848656
+4720 Tempo 854701
+4726 Tempo 860832
+4735 Tempo 867052
+4742 Tempo 873362
+4746 Tempo 879765
+4750 Tempo 886263
+4756 Tempo 892857
+4800 Tempo 886263
+4806 Tempo 879765
+4808 Tempo 873362
+4812 Tempo 860832
+4815 Tempo 854701
+5001 Tempo 882353
+5026 Tempo 952381
+5050 Tempo 1052632
+5060 Tempo 845070
+5226 Tempo 860832
+5240 Tempo 867052
+5247 Tempo 873362
+5253 Tempo 879765
+5260 Tempo 886263
+5272 Tempo 879765
+5275 Tempo 873362
+5278 Tempo 867052
+5281 Tempo 860832
+5283 Tempo 854701
+5647 Tempo 842697
+5658 Tempo 848656
+5667 Tempo 854701
+5671 Tempo 860832
+5677 Tempo 867052
+5680 Tempo 873362
+5686 Tempo 879765
+5688 Tempo 886263
+5695 Tempo 892857
+5701 Tempo 899550
+5711 Tempo 906344
+5733 Tempo 899550
+5737 Tempo 892857
+5743 Tempo 886263
+5746 Tempo 879765
+5750 Tempo 873362
+5753 Tempo 867052
+5756 Tempo 860832
+5758 Tempo 854701
+5761 Tempo 848656
+5966 Tempo 882353
+5981 Tempo 923077
+5996 Tempo 952381
+6010 Tempo 857143
+6201 Tempo 882353
+6220 Tempo 937500
+6238 Tempo 952381
+6253 Tempo 857143
+6685 Tempo 895522
+6703 Tempo 923077
+6721 Tempo 952381
+6725 Tempo 857143
+7320 Tempo 882353
+7348 Tempo 909091
+7381 Tempo 952381
+7406 Tempo 1034483
+7408 Tempo 983607
+7440 Tempo 909091
+7491 Tempo 869565
+7866 Tempo 895522
+7893 Tempo 923077
+7913 Tempo 952381
+7930 Tempo 869565
+7955 Tempo 879765
+7968 Tempo 956938
+7971 Tempo 964630
+7972 Tempo 972447
+7975 Tempo 879765
+7976 Tempo 848656
+7977 Tempo 831025
+7978 Tempo 819672
+7980 Tempo 808625
+7981 Tempo 803213
+7982 Tempo 797872
+7983 Tempo 787402
+7986 Tempo 777202
+7987 Tempo 767263
+7988 Tempo 762389
+7990 Tempo 757576
+7991 Tempo 752823
+7993 Tempo 748130
+8015 Tempo 752823
+8020 Tempo 762389
+8022 Tempo 767263
+8023 Tempo 772201
+8027 Tempo 782269
+8028 Tempo 787402
+8030 Tempo 792602
+8031 Tempo 797872
+8033 Tempo 803213
+8036 Tempo 814111
+8038 Tempo 819672
+8040 Tempo 825309
+8042 Tempo 831025
+8043 Tempo 836820
+8046 Tempo 842697
+8047 Tempo 848656
+8048 Tempo 854701
+8351 Tempo 882353
+8376 Tempo 937500
+8403 Tempo 967742
+8408 Tempo 857143
+8591 Tempo 882353
+8611 Tempo 909091
+8636 Tempo 937500
+8650 Tempo 857143
+8825 Tempo 882353
+8848 Tempo 909091
+8871 Tempo 937500
+8885 Tempo 857143
+9056 Tempo 882353
+9083 Tempo 909091
+9106 Tempo 967742
+9128 Tempo 857143
+9616 Tempo 1117318
+9627 Tempo 1022147
+9628 Tempo 836820
+9630 Tempo 825309
+9631 Tempo 797872
+9633 Tempo 787402
+9635 Tempo 782269
+9636 Tempo 777202
+9637 Tempo 772201
+9638 Tempo 767263
+9641 Tempo 762389
+9642 Tempo 757576
+9645 Tempo 752823
+9647 Tempo 748130
+9650 Tempo 743494
+9652 Tempo 738916
+9656 Tempo 734394
+9661 Tempo 729927
+9672 Tempo 734394
+9675 Tempo 738916
+9677 Tempo 743494
+9678 Tempo 748130
+9680 Tempo 752823
+9681 Tempo 757576
+9682 Tempo 762389
+9685 Tempo 767263
+9686 Tempo 772201
+9688 Tempo 777202
+9691 Tempo 782269
+9692 Tempo 787402
+9695 Tempo 792602
+9696 Tempo 797872
+9698 Tempo 803213
+9701 Tempo 814111
+9703 Tempo 819672
+9707 Tempo 825309
+9711 Tempo 831025
+9712 Tempo 836820
+9715 Tempo 842697
+9716 Tempo 941915
+9736 Tempo 858369
+10016 Tempo 869565
+10045 Tempo 882353
+10073 Tempo 895522
+10091 Tempo 857143
+10803 Tempo 1060071
+10817 Tempo 1039861
+10820 Tempo 787402
+10821 Tempo 777202
+10822 Tempo 767263
+10823 Tempo 757576
+10825 Tempo 752823
+10827 Tempo 748130
+10831 Tempo 743494
+10836 Tempo 738916
+10840 Tempo 734394
+10843 Tempo 729927
+10858 Tempo 734394
+10861 Tempo 738916
+10863 Tempo 743494
+10865 Tempo 748130
+10866 Tempo 752823
+10867 Tempo 757576
+10870 Tempo 762389
+10872 Tempo 772201
+10873 Tempo 777202
+10876 Tempo 787402
+10880 Tempo 792602
+10882 Tempo 803213
+10883 Tempo 808625
+10886 Tempo 956938
+10901 Tempo 854701
+10998 Tempo 869565
+11016 Tempo 882353
+11036 Tempo 909091
+11045 Tempo 857143
+11701 Tempo 857143
+11738 Tempo 895522
+11766 Tempo 845070
+11965 Tempo 869565
+11990 Tempo 923077
+12006 Tempo 845070
+12673 Tempo 869565
+12698 Tempo 895522
+12723 Tempo 857143
+12910 Tempo 895522
+12936 Tempo 923077
+12966 Tempo 857143
+13141 Tempo 869565
+13166 Tempo 895522
+13203 Tempo 857143
+14063 Tempo 882353
+14113 Tempo 923077
+14170 Tempo 857143
+14307 Tempo 967742
+14331 Tempo 845070
+14382 Tempo 909091
+14407 Tempo 857143
+14636 Tempo 845070
+14723 Tempo 869565
+14781 Tempo 895522
+14831 Tempo 952381
+14885 Tempo 923077
+14928 Tempo 869565
+14963 Tempo 845070
+15300 Tempo 857143
+15328 Tempo 895522
+15370 Tempo 857143
+15610 Tempo 867052
+15628 Tempo 887837
+15646 Tempo 920245
+15658 Tempo 939261
+15670 Tempo 964630
+15685 Tempo 977040
+15702 Tempo 996678
+15715 Tempo 1016777
+15730 Tempo 1048951
+15741 Tempo 1077006
+15746 Tempo 1117110
+15762 Tempo 1160542
+15770 Tempo 1207001
+15783 Tempo 1268231
+15791 Tempo 1366431
+15807 Tempo 1511335
+15822 Tempo 1863354
+15832 Tempo 2586207
+15850 Tempo 848656
+15850 Meta TrkEnd
+TrkEnd
+MTrk
+0 Meta TrkName "BWV 870/1"
+0 PrCh ch=2 p=6
+0 On ch=2 n=48 v=120
+0 On ch=2 n=36 v=120
+30 On ch=2 n=72 v=120
+60 On ch=2 n=72 v=0
+60 On ch=2 n=74 v=120
+90 On ch=2 n=74 v=0
+90 On ch=2 n=76 v=120
+120 On ch=2 n=76 v=0
+120 On ch=2 n=67 v=120
+150 On ch=2 n=67 v=0
+150 On ch=2 n=76 v=120
+180 On ch=2 n=76 v=0
+180 On ch=2 n=65 v=120
+210 On ch=2 n=65 v=0
+210 On ch=2 n=74 v=120
+240 On ch=2 n=74 v=0
+240 On ch=2 n=64 v=120
+255 On ch=2 n=64 v=0
+255 On ch=2 n=72 v=120
+270 On ch=2 n=71 v=120
+274 On ch=2 n=72 v=0
+285 On ch=2 n=69 v=120
+287 On ch=2 n=71 v=0
+300 On ch=2 n=67 v=120
+302 On ch=2 n=69 v=0
+330 On ch=2 n=67 v=0
+330 On ch=2 n=70 v=120
+360 On ch=2 n=70 v=0
+360 On ch=2 n=64 v=120
+390 On ch=2 n=64 v=0
+390 On ch=2 n=67 v=120
+420 On ch=2 n=67 v=0
+420 On ch=2 n=60 v=120
+450 On ch=2 n=60 v=0
+450 On ch=2 n=70 v=120
+480 On ch=2 n=70 v=0
+480 On ch=2 n=69 v=120
+495 On ch=2 n=67 v=120
+499 On ch=2 n=69 v=0
+510 On ch=2 n=65 v=120
+514 On ch=2 n=67 v=0
+525 On ch=2 n=64 v=120
+529 On ch=2 n=65 v=0
+540 On ch=2 n=65 v=120
+548 On ch=2 n=64 v=0
+570 On ch=2 n=65 v=0
+570 On ch=2 n=69 v=120
+600 On ch=2 n=69 v=0
+600 On ch=2 n=62 v=120
+630 On ch=2 n=62 v=0
+630 On ch=2 n=65 v=120
+660 On ch=2 n=65 v=0
+660 On ch=2 n=57 v=120
+690 On ch=2 n=57 v=0
+690 On ch=2 n=60 v=120
+720 On ch=2 n=60 v=0
+720 On ch=2 n=59 v=120
+750 On ch=2 n=59 v=0
+750 On ch=2 n=62 v=120
+780 On ch=2 n=62 v=0
+780 On ch=2 n=64 v=120
+810 On ch=2 n=64 v=0
+810 On ch=2 n=65 v=120
+840 On ch=2 n=65 v=0
+840 On ch=2 n=55 v=120
+870 On ch=2 n=55 v=0
+870 On ch=2 n=65 v=120
+900 On ch=2 n=65 v=0
+900 On ch=2 n=64 v=120
+930 On ch=2 n=64 v=0
+930 On ch=2 n=62 v=120
+960 On ch=2 n=62 v=0
+960 On ch=2 n=64 v=120
+990 On ch=2 n=60 v=120
+990 On ch=2 n=60 v=120
+1020 On ch=2 n=60 v=0
+1020 On ch=2 n=59 v=120
+1050 On ch=2 n=59 v=0
+1050 On ch=2 n=57 v=120
+1080 On ch=2 n=57 v=0
+1080 On ch=2 n=36 v=0
+1080 On ch=2 n=48 v=0
+1080 On ch=2 n=55 v=120
+1110 On ch=2 n=53 v=120
+1140 On ch=2 n=53 v=0
+1140 On ch=2 n=52 v=120
+1170 On ch=2 n=52 v=0
+1170 On ch=2 n=50 v=120
+1200 On ch=2 n=50 v=0
+1200 On ch=2 n=48 v=120
+1215 On ch=2 n=50 v=120
+1217 On ch=2 n=48 v=0
+1230 On ch=2 n=48 v=120
+1234 On ch=2 n=50 v=0
+1245 On ch=2 n=47 v=120
+1249 On ch=2 n=48 v=0
+1260 On ch=2 n=48 v=120
+1264 On ch=2 n=47 v=0
+1290 On ch=2 n=48 v=0
+1290 On ch=2 n=52 v=120
+1320 On ch=2 n=52 v=0
+1320 On ch=2 n=43 v=120
+1350 On ch=2 n=43 v=0
+1350 On ch=2 n=46 v=120
+1380 On ch=2 n=46 v=0
+1380 On ch=2 n=45 v=120
+1410 On ch=2 n=45 v=0
+1410 On ch=2 n=43 v=120
+1440 On ch=2 n=43 v=0
+1440 On ch=2 n=55 v=0
+1440 On ch=2 n=60 v=0
+1440 On ch=2 n=57 v=120
+1440 On ch=2 n=41 v=120
+1470 On ch=2 n=48 v=120
+1500 On ch=2 n=48 v=0
+1500 On ch=2 n=50 v=120
+1530 On ch=2 n=50 v=0
+1530 On ch=2 n=52 v=120
+1560 On ch=2 n=52 v=0
+1560 On ch=2 n=53 v=120
+1590 On ch=2 n=64 v=0
+1590 On ch=2 n=62 v=120
+1620 On ch=2 n=53 v=0
+1620 On ch=2 n=52 v=120
+1650 On ch=2 n=62 v=0
+1650 On ch=2 n=60 v=120
+1680 On ch=2 n=60 v=0
+1680 On ch=2 n=52 v=0
+1680 On ch=2 n=57 v=0
+1680 On ch=2 n=59 v=120
+1680 On ch=2 n=55 v=120
+1680 On ch=2 n=50 v=120
+1710 On ch=2 n=59 v=0
+1710 On ch=2 n=62 v=120
+1740 On ch=2 n=62 v=0
+1740 On ch=2 n=67 v=120
+1770 On ch=2 n=55 v=0
+1770 On ch=2 n=59 v=120
+1800 On ch=2 n=59 v=0
+1800 On ch=2 n=50 v=0
+1800 On ch=2 n=41 v=0
+1800 On ch=2 n=60 v=120
+1800 On ch=2 n=52 v=120
+1800 On ch=2 n=40 v=120
+1830 On ch=2 n=67 v=0
+1830 On ch=2 n=67 v=120
+1843 On ch=2 n=40 v=0
+1860 On ch=2 n=67 v=0
+1860 On ch=2 n=65 v=120
+1860 On ch=2 n=45 v=120
+1890 On ch=2 n=65 v=0
+1890 On ch=2 n=64 v=120
+1903 On ch=2 n=45 v=0
+1920 On ch=2 n=64 v=0
+1920 On ch=2 n=52 v=0
+1920 On ch=2 n=65 v=120
+1920 On ch=2 n=50 v=120
+1920 On ch=2 n=38 v=120
+1950 On ch=2 n=60 v=0
+1950 On ch=2 n=60 v=120
+1980 On ch=2 n=60 v=0
+1980 On ch=2 n=62 v=120
+2010 On ch=2 n=62 v=0
+2010 On ch=2 n=57 v=120
+2040 On ch=2 n=57 v=0
+2040 On ch=2 n=38 v=0
+2040 On ch=2 n=59 v=120
+2040 On ch=2 n=43 v=120
+2070 On ch=2 n=65 v=0
+2070 On ch=2 n=65 v=120
+2100 On ch=2 n=65 v=0
+2100 On ch=2 n=64 v=120
+2130 On ch=2 n=64 v=0
+2130 On ch=2 n=62 v=120
+2160 On ch=2 n=62 v=0
+2160 On ch=2 n=43 v=0
+2160 On ch=2 n=59 v=0
+2160 On ch=2 n=50 v=0
+2160 On ch=2 n=64 v=120
+2160 On ch=2 n=60 v=120
+2160 On ch=2 n=48 v=120
+2160 On ch=2 n=36 v=120
+2190 On ch=2 n=36 v=0
+2190 On ch=2 n=48 v=0
+2190 On ch=2 n=43 v=120
+2220 On ch=2 n=43 v=0
+2220 On ch=2 n=45 v=120
+2250 On ch=2 n=45 v=0
+2250 On ch=2 n=47 v=120
+2280 On ch=2 n=47 v=0
+2280 On ch=2 n=48 v=120
+2310 On ch=2 n=48 v=0
+2310 On ch=2 n=52 v=120
+2340 On ch=2 n=52 v=0
+2340 On ch=2 n=45 v=120
+2370 On ch=2 n=45 v=0
+2370 On ch=2 n=48 v=120
+2400 On ch=2 n=48 v=0
+2400 On ch=2 n=64 v=0
+2400 On ch=2 n=62 v=120
+2400 On ch=2 n=42 v=120
+2430 On ch=2 n=60 v=0
+2430 On ch=2 n=60 v=120
+2435 On ch=2 n=42 v=0
+2460 On ch=2 n=60 v=0
+2460 On ch=2 n=59 v=120
+2460 On ch=2 n=38 v=120
+2490 On ch=2 n=59 v=0
+2490 On ch=2 n=57 v=120
+2495 On ch=2 n=38 v=0
+2520 On ch=2 n=57 v=0
+2520 On ch=2 n=59 v=120
+2520 On ch=2 n=43 v=120
+2550 On ch=2 n=62 v=0
+2550 On ch=2 n=62 v=120
+2580 On ch=2 n=62 v=0
+2580 On ch=2 n=64 v=120
+2610 On ch=2 n=64 v=0
+2610 On ch=2 n=67 v=120
+2640 On ch=2 n=67 v=0
+2640 On ch=2 n=59 v=0
+2640 On ch=2 n=60 v=120
+2640 On ch=2 n=57 v=120
+2670 On ch=2 n=43 v=0
+2670 On ch=2 n=45 v=120
+2685 On ch=2 n=47 v=120
+2693 On ch=2 n=45 v=0
+2700 On ch=2 n=48 v=120
+2708 On ch=2 n=47 v=0
+2715 On ch=2 n=50 v=120
+2723 On ch=2 n=48 v=0
+2730 On ch=2 n=52 v=120
+2738 On ch=2 n=50 v=0
+2760 On ch=2 n=52 v=0
+2760 On ch=2 n=42 v=120
+2790 On ch=2 n=60 v=0
+2790 On ch=2 n=69 v=120
+2805 On ch=2 n=67 v=120
+2809 On ch=2 n=69 v=0
+2820 On ch=2 n=69 v=120
+2820 On ch=2 n=50 v=120
+2828 On ch=2 n=67 v=0
+2850 On ch=2 n=69 v=0
+2850 On ch=2 n=60 v=120
+2880 On ch=2 n=60 v=0
+2880 On ch=2 n=42 v=0
+2880 On ch=2 n=59 v=120
+2880 On ch=2 n=43 v=120
+2910 On ch=2 n=57 v=0
+2910 On ch=2 n=57 v=120
+2940 On ch=2 n=57 v=0
+2940 On ch=2 n=55 v=120
+2970 On ch=2 n=55 v=0
+2970 On ch=2 n=54 v=120
+3000 On ch=2 n=54 v=0
+3000 On ch=2 n=55 v=120
+3030 On ch=2 n=59 v=0
+3030 On ch=2 n=62 v=120
+3060 On ch=2 n=43 v=0
+3060 On ch=2 n=55 v=0
+3060 On ch=2 n=50 v=0
+3060 On ch=2 n=64 v=120
+3060 On ch=2 n=41 v=120
+3069 On ch=2 n=62 v=0
+3090 On ch=2 n=65 v=120
+3099 On ch=2 n=41 v=0
+3099 On ch=2 n=64 v=0
+3120 On ch=2 n=67 v=120
+3120 On ch=2 n=40 v=120
+3129 On ch=2 n=65 v=0
+3150 On ch=2 n=64 v=120
+3173 On ch=2 n=40 v=0
+3180 On ch=2 n=64 v=0
+3180 On ch=2 n=59 v=120
+3180 On ch=2 n=52 v=120
+3180 On ch=2 n=43 v=120
+3210 On ch=2 n=59 v=0
+3210 On ch=2 n=62 v=120
+3233 On ch=2 n=43 v=0
+3240 On ch=2 n=62 v=0
+3240 On ch=2 n=61 v=120
+3240 On ch=2 n=45 v=120
+3270 On ch=2 n=61 v=0
+3270 On ch=2 n=64 v=120
+3291 On ch=2 n=45 v=0
+3300 On ch=2 n=64 v=0
+3300 On ch=2 n=57 v=120
+3300 On ch=2 n=49 v=120
+3330 On ch=2 n=67 v=0
+3330 On ch=2 n=67 v=120
+3351 On ch=2 n=49 v=0
+3360 On ch=2 n=67 v=0
+3360 On ch=2 n=65 v=120
+3360 On ch=2 n=38 v=120
+3390 On ch=2 n=52 v=0
+3390 On ch=2 n=45 v=120
+3420 On ch=2 n=47 v=120
+3429 On ch=2 n=45 v=0
+3450 On ch=2 n=49 v=120
+3455 On ch=2 n=47 v=0
+3480 On ch=2 n=50 v=120
+3489 On ch=2 n=49 v=0
+3510 On ch=2 n=38 v=0
+3510 On ch=2 n=53 v=120
+3515 On ch=2 n=50 v=0
+3540 On ch=2 n=57 v=0
+3540 On ch=2 n=53 v=0
+3540 On ch=2 n=62 v=120
+3540 On ch=2 n=47 v=120
+3570 On ch=2 n=47 v=0
+3570 On ch=2 n=50 v=120
+3600 On ch=2 n=50 v=0
+3600 On ch=2 n=65 v=0
+3600 On ch=2 n=64 v=120
+3600 On ch=2 n=44 v=120
+3630 On ch=2 n=62 v=0
+3630 On ch=2 n=62 v=120
+3643 On ch=2 n=44 v=0
+3660 On ch=2 n=62 v=0
+3660 On ch=2 n=60 v=120
+3660 On ch=2 n=40 v=120
+3690 On ch=2 n=60 v=0
+3690 On ch=2 n=59 v=120
+3707 On ch=2 n=40 v=0
+3720 On ch=2 n=59 v=0
+3720 On ch=2 n=60 v=120
+3720 On ch=2 n=45 v=120
+3745 On ch=2 n=64 v=0
+3750 On ch=2 n=64 v=120
+3780 On ch=2 n=64 v=0
+3780 On ch=2 n=45 v=0
+3780 On ch=2 n=65 v=120
+3780 On ch=2 n=43 v=120
+3810 On ch=2 n=65 v=0
+3810 On ch=2 n=67 v=120
+3840 On ch=2 n=67 v=0
+3840 On ch=2 n=43 v=0
+3840 On ch=2 n=69 v=120
+3840 On ch=2 n=41 v=120
+3855 On ch=2 n=67 v=120
+3863 On ch=2 n=69 v=0
+3870 On ch=2 n=65 v=120
+3878 On ch=2 n=67 v=0
+3885 On ch=2 n=64 v=120
+3889 On ch=2 n=65 v=0
+3900 On ch=2 n=41 v=0
+3900 On ch=2 n=65 v=120
+3900 On ch=2 n=40 v=120
+3908 On ch=2 n=64 v=0
+3930 On ch=2 n=65 v=0
+3930 On ch=2 n=69 v=120
+3960 On ch=2 n=69 v=0
+3960 On ch=2 n=60 v=0
+3960 On ch=2 n=40 v=0
+3960 On ch=2 n=62 v=120
+3960 On ch=2 n=41 v=120
+3964 On ch=2 n=62 v=120
+3990 On ch=2 n=72 v=120
+3994 On ch=2 n=62 v=0
+4020 On ch=2 n=41 v=0
+4020 On ch=2 n=72 v=0
+4020 On ch=2 n=71 v=120
+4020 On ch=2 n=38 v=120
+4050 On ch=2 n=71 v=0
+4050 On ch=2 n=69 v=120
+4080 On ch=2 n=69 v=0
+4080 On ch=2 n=38 v=0
+4080 On ch=2 n=68 v=120
+4080 On ch=2 n=40 v=120
+4110 On ch=2 n=62 v=0
+4110 On ch=2 n=65 v=120
+4140 On ch=2 n=65 v=0
+4140 On ch=2 n=64 v=120
+4170 On ch=2 n=64 v=0
+4170 On ch=2 n=62 v=120
+4200 On ch=2 n=62 v=0
+4200 On ch=2 n=60 v=120
+4230 On ch=2 n=68 v=0
+4230 On ch=2 n=64 v=120
+4260 On ch=2 n=64 v=0
+4260 On ch=2 n=69 v=120
+4290 On ch=2 n=60 v=0
+4290 On ch=2 n=60 v=120
+4320 On ch=2 n=60 v=0
+4320 On ch=2 n=59 v=120
+4350 On ch=2 n=40 v=0
+4350 On ch=2 n=47 v=120
+4380 On ch=2 n=69 v=0
+4380 On ch=2 n=69 v=120
+4380 On ch=2 n=48 v=120
+4389 On ch=2 n=47 v=0
+4410 On ch=2 n=50 v=120
+4419 On ch=2 n=48 v=0
+4440 On ch=2 n=69 v=0
+4440 On ch=2 n=67 v=120
+4440 On ch=2 n=52 v=120
+4449 On ch=2 n=50 v=0
+4470 On ch=2 n=52 v=0
+4470 On ch=2 n=55 v=120
+4500 On ch=2 n=55 v=0
+4500 On ch=2 n=67 v=0
+4500 On ch=2 n=59 v=0
+4500 On ch=2 n=65 v=120
+4500 On ch=2 n=62 v=120
+4500 On ch=2 n=47 v=120
+4530 On ch=2 n=47 v=0
+4530 On ch=2 n=50 v=120
+4560 On ch=2 n=50 v=0
+4560 On ch=2 n=65 v=0
+4560 On ch=2 n=64 v=120
+4560 On ch=2 n=49 v=120
+4590 On ch=2 n=49 v=0
+4590 On ch=2 n=62 v=0
+4590 On ch=2 n=62 v=120
+4590 On ch=2 n=52 v=120
+4620 On ch=2 n=52 v=0
+4620 On ch=2 n=62 v=0
+4620 On ch=2 n=61 v=120
+4620 On ch=2 n=45 v=120
+4650 On ch=2 n=64 v=0
+4650 On ch=2 n=64 v=120
+4650 On ch=2 n=55 v=120
+4680 On ch=2 n=45 v=0
+4680 On ch=2 n=61 v=0
+4680 On ch=2 n=57 v=120
+4680 On ch=2 n=50 v=120
+4710 On ch=2 n=64 v=0
+4710 On ch=2 n=55 v=0
+4710 On ch=2 n=64 v=120
+4710 On ch=2 n=55 v=120
+4740 On ch=2 n=55 v=0
+4740 On ch=2 n=64 v=0
+4740 On ch=2 n=62 v=120
+4740 On ch=2 n=53 v=120
+4770 On ch=2 n=53 v=0
+4770 On ch=2 n=62 v=0
+4770 On ch=2 n=61 v=120
+4770 On ch=2 n=52 v=120
+4800 On ch=2 n=52 v=0
+4800 On ch=2 n=61 v=0
+4800 On ch=2 n=62 v=120
+4800 On ch=2 n=53 v=120
+4830 On ch=2 n=62 v=0
+4830 On ch=2 n=57 v=0
+4830 On ch=2 n=69 v=120
+4860 On ch=2 n=50 v=0
+4860 On ch=2 n=71 v=120
+4860 On ch=2 n=45 v=120
+4869 On ch=2 n=69 v=0
+4890 On ch=2 n=73 v=120
+4899 On ch=2 n=71 v=0
+4920 On ch=2 n=45 v=0
+4920 On ch=2 n=74 v=120
+4920 On ch=2 n=46 v=120
+4929 On ch=2 n=73 v=0
+4950 On ch=2 n=74 v=0
+4950 On ch=2 n=77 v=120
+4967 On ch=2 n=46 v=0
+4980 On ch=2 n=69 v=120
+4980 On ch=2 n=50 v=120
+5010 On ch=2 n=69 v=0
+5010 On ch=2 n=72 v=120
+5027 On ch=2 n=50 v=0
+5040 On ch=2 n=72 v=0
+5040 On ch=2 n=53 v=0
+5040 On ch=2 n=70 v=120
+5040 On ch=2 n=55 v=120
+5040 On ch=2 n=43 v=120
+5070 On ch=2 n=77 v=0
+5070 On ch=2 n=77 v=120
+5100 On ch=2 n=77 v=0
+5100 On ch=2 n=75 v=120
+5130 On ch=2 n=75 v=0
+5130 On ch=2 n=74 v=120
+5160 On ch=2 n=74 v=0
+5160 On ch=2 n=75 v=120
+5190 On ch=2 n=75 v=0
+5190 On ch=2 n=79 v=120
+5220 On ch=2 n=79 v=0
+5220 On ch=2 n=73 v=120
+5250 On ch=2 n=73 v=0
+5250 On ch=2 n=74 v=120
+5280 On ch=2 n=74 v=0
+5280 On ch=2 n=43 v=0
+5280 On ch=2 n=73 v=120
+5280 On ch=2 n=45 v=120
+5310 On ch=2 n=70 v=0
+5310 On ch=2 n=70 v=120
+5340 On ch=2 n=70 v=0
+5340 On ch=2 n=69 v=120
+5370 On ch=2 n=55 v=0
+5370 On ch=2 n=55 v=120
+5400 On ch=2 n=55 v=0
+5400 On ch=2 n=54 v=120
+5430 On ch=2 n=69 v=0
+5430 On ch=2 n=69 v=120
+5460 On ch=2 n=54 v=0
+5460 On ch=2 n=73 v=0
+5460 On ch=2 n=74 v=120
+5460 On ch=2 n=53 v=120
+5490 On ch=2 n=69 v=0
+5490 On ch=2 n=68 v=120
+5520 On ch=2 n=68 v=0
+5520 On ch=2 n=53 v=0
+5520 On ch=2 n=69 v=120
+5520 On ch=2 n=52 v=120
+5550 On ch=2 n=74 v=0
+5550 On ch=2 n=74 v=120
+5580 On ch=2 n=74 v=0
+5580 On ch=2 n=52 v=0
+5580 On ch=2 n=73 v=120
+5580 On ch=2 n=50 v=120
+5610 On ch=2 n=73 v=0
+5610 On ch=2 n=71 v=120
+5640 On ch=2 n=71 v=0
+5640 On ch=2 n=50 v=0
+5640 On ch=2 n=45 v=0
+5640 On ch=2 n=73 v=120
+5640 On ch=2 n=52 v=120
+5640 On ch=2 n=45 v=120
+5670 On ch=2 n=73 v=0
+5670 On ch=2 n=74 v=120
+5700 On ch=2 n=74 v=0
+5700 On ch=2 n=52 v=0
+5700 On ch=2 n=76 v=120
+5700 On ch=2 n=57 v=120
+5730 On ch=2 n=69 v=0
+5730 On ch=2 n=67 v=120
+5760 On ch=2 n=67 v=0
+5760 On ch=2 n=45 v=0
+5760 On ch=2 n=65 v=120
+5760 On ch=2 n=50 v=120
+5790 On ch=2 n=76 v=0
+5790 On ch=2 n=69 v=120
+5820 On ch=2 n=69 v=0
+5820 On ch=2 n=57 v=0
+5820 On ch=2 n=74 v=120
+5820 On ch=2 n=58 v=120
+5850 On ch=2 n=74 v=0
+5850 On ch=2 n=73 v=120
+5880 On ch=2 n=73 v=0
+5880 On ch=2 n=58 v=0
+5880 On ch=2 n=74 v=120
+5880 On ch=2 n=57 v=120
+5910 On ch=2 n=65 v=0
+5910 On ch=2 n=65 v=120
+5940 On ch=2 n=65 v=0
+5940 On ch=2 n=57 v=0
+5940 On ch=2 n=70 v=120
+5940 On ch=2 n=55 v=120
+5970 On ch=2 n=74 v=0
+5970 On ch=2 n=76 v=120
+6000 On ch=2 n=76 v=0
+6000 On ch=2 n=55 v=0
+6000 On ch=2 n=70 v=0
+6000 On ch=2 n=77 v=120
+6000 On ch=2 n=69 v=120
+6000 On ch=2 n=53 v=120
+6030 On ch=2 n=53 v=0
+6030 On ch=2 n=55 v=120
+6060 On ch=2 n=55 v=0
+6060 On ch=2 n=57 v=120
+6090 On ch=2 n=69 v=0
+6090 On ch=2 n=50 v=0
+6090 On ch=2 n=69 v=120
+6090 On ch=2 n=48 v=120
+6120 On ch=2 n=48 v=0
+6120 On ch=2 n=69 v=0
+6120 On ch=2 n=74 v=120
+6120 On ch=2 n=47 v=120
+6150 On ch=2 n=77 v=0
+6150 On ch=2 n=57 v=0
+6150 On ch=2 n=76 v=120
+6150 On ch=2 n=56 v=120
+6180 On ch=2 n=56 v=0
+6180 On ch=2 n=76 v=0
+6180 On ch=2 n=77 v=120
+6180 On ch=2 n=57 v=120
+6210 On ch=2 n=74 v=0
+6210 On ch=2 n=47 v=0
+6210 On ch=2 n=74 v=120
+6210 On ch=2 n=45 v=120
+6240 On ch=2 n=45 v=0
+6240 On ch=2 n=57 v=0
+6240 On ch=2 n=77 v=0
+6240 On ch=2 n=76 v=120
+6240 On ch=2 n=44 v=120
+6270 On ch=2 n=74 v=0
+6270 On ch=2 n=74 v=120
+6270 On ch=2 n=52 v=120
+6300 On ch=2 n=52 v=0
+6300 On ch=2 n=74 v=0
+6300 On ch=2 n=44 v=0
+6300 On ch=2 n=72 v=120
+6300 On ch=2 n=54 v=120
+6330 On ch=2 n=54 v=0
+6330 On ch=2 n=72 v=0
+6330 On ch=2 n=71 v=120
+6330 On ch=2 n=56 v=120
+6360 On ch=2 n=56 v=0
+6360 On ch=2 n=71 v=0
+6360 On ch=2 n=72 v=120
+6360 On ch=2 n=57 v=120
+6390 On ch=2 n=76 v=0
+6390 On ch=2 n=76 v=120
+6390 On ch=2 n=48 v=120
+6420 On ch=2 n=48 v=0
+6420 On ch=2 n=76 v=0
+6420 On ch=2 n=81 v=120
+6420 On ch=2 n=53 v=120
+6450 On ch=2 n=53 v=0
+6450 On ch=2 n=81 v=0
+6450 On ch=2 n=80 v=120
+6450 On ch=2 n=52 v=120
+6480 On ch=2 n=52 v=0
+6480 On ch=2 n=80 v=0
+6480 On ch=2 n=81 v=120
+6480 On ch=2 n=53 v=120
+6510 On ch=2 n=57 v=0
+6510 On ch=2 n=72 v=0
+6510 On ch=2 n=73 v=120
+6510 On ch=2 n=57 v=120
+6540 On ch=2 n=57 v=0
+6540 On ch=2 n=73 v=0
+6540 On ch=2 n=74 v=120
+6540 On ch=2 n=59 v=120
+6570 On ch=2 n=59 v=0
+6570 On ch=2 n=74 v=0
+6570 On ch=2 n=76 v=120
+6570 On ch=2 n=61 v=120
+6600 On ch=2 n=61 v=0
+6600 On ch=2 n=76 v=0
+6600 On ch=2 n=69 v=120
+6600 On ch=2 n=62 v=120
+6630 On ch=2 n=81 v=0
+6630 On ch=2 n=53 v=0
+6630 On ch=2 n=79 v=120
+6630 On ch=2 n=52 v=120
+6660 On ch=2 n=52 v=0
+6660 On ch=2 n=79 v=0
+6660 On ch=2 n=81 v=120
+6660 On ch=2 n=53 v=120
+6690 On ch=2 n=53 v=0
+6690 On ch=2 n=81 v=0
+6690 On ch=2 n=77 v=120
+6690 On ch=2 n=50 v=120
+6720 On ch=2 n=50 v=0
+6720 On ch=2 n=77 v=0
+6720 On ch=2 n=74 v=120
+6720 On ch=2 n=58 v=120
+6750 On ch=2 n=69 v=0
+6750 On ch=2 n=62 v=0
+6750 On ch=2 n=66 v=120
+6750 On ch=2 n=62 v=120
+6780 On ch=2 n=62 v=0
+6780 On ch=2 n=66 v=0
+6780 On ch=2 n=67 v=120
+6780 On ch=2 n=64 v=120
+6810 On ch=2 n=64 v=0
+6810 On ch=2 n=67 v=0
+6810 On ch=2 n=69 v=120
+6810 On ch=2 n=66 v=120
+6840 On ch=2 n=66 v=0
+6840 On ch=2 n=69 v=0
+6840 On ch=2 n=70 v=120
+6840 On ch=2 n=67 v=120
+6870 On ch=2 n=74 v=0
+6870 On ch=2 n=77 v=120
+6900 On ch=2 n=77 v=0
+6900 On ch=2 n=70 v=0
+6900 On ch=2 n=76 v=120
+6930 On ch=2 n=76 v=0
+6930 On ch=2 n=67 v=0
+6930 On ch=2 n=79 v=120
+6930 On ch=2 n=65 v=120
+6960 On ch=2 n=65 v=0
+6960 On ch=2 n=79 v=0
+6960 On ch=2 n=72 v=120
+6960 On ch=2 n=64 v=120
+6990 On ch=2 n=58 v=0
+6990 On ch=2 n=57 v=120
+7020 On ch=2 n=57 v=0
+7020 On ch=2 n=70 v=120
+7020 On ch=2 n=55 v=120
+7050 On ch=2 n=55 v=0
+7050 On ch=2 n=58 v=120
+7080 On ch=2 n=58 v=0
+7080 On ch=2 n=57 v=120
+7110 On ch=2 n=70 v=0
+7110 On ch=2 n=64 v=0
+7110 On ch=2 n=69 v=120
+7110 On ch=2 n=60 v=120
+7125 On ch=2 n=69 v=0
+7125 On ch=2 n=67 v=120
+7140 On ch=2 n=67 v=0
+7140 On ch=2 n=60 v=0
+7140 On ch=2 n=69 v=120
+7140 On ch=2 n=65 v=120
+7170 On ch=2 n=69 v=0
+7170 On ch=2 n=72 v=0
+7170 On ch=2 n=75 v=120
+7170 On ch=2 n=72 v=120
+7200 On ch=2 n=72 v=0
+7200 On ch=2 n=75 v=0
+7200 On ch=2 n=74 v=120
+7200 On ch=2 n=70 v=120
+7230 On ch=2 n=57 v=0
+7230 On ch=2 n=55 v=120
+7260 On ch=2 n=55 v=0
+7260 On ch=2 n=53 v=120
+7290 On ch=2 n=53 v=0
+7290 On ch=2 n=57 v=120
+7320 On ch=2 n=57 v=0
+7320 On ch=2 n=65 v=0
+7320 On ch=2 n=58 v=120
+7320 On ch=2 n=55 v=120
+7350 On ch=2 n=74 v=0
+7350 On ch=2 n=77 v=120
+7367 On ch=2 n=55 v=0
+7380 On ch=2 n=70 v=0
+7380 On ch=2 n=58 v=0
+7380 On ch=2 n=70 v=120
+7380 On ch=2 n=60 v=120
+7380 On ch=2 n=48 v=120
+7410 On ch=2 n=77 v=0
+7410 On ch=2 n=76 v=120
+7427 On ch=2 n=48 v=0
+7440 On ch=2 n=76 v=0
+7440 On ch=2 n=77 v=120
+7440 On ch=2 n=53 v=120
+7470 On ch=2 n=70 v=0
+7470 On ch=2 n=67 v=120
+7500 On ch=2 n=67 v=0
+7500 On ch=2 n=69 v=120
+7530 On ch=2 n=60 v=0
+7530 On ch=2 n=77 v=0
+7530 On ch=2 n=72 v=120
+7530 On ch=2 n=57 v=120
+7560 On ch=2 n=57 v=0
+7560 On ch=2 n=72 v=0
+7560 On ch=2 n=77 v=120
+7560 On ch=2 n=62 v=120
+7590 On ch=2 n=77 v=0
+7590 On ch=2 n=81 v=120
+7620 On ch=2 n=81 v=0
+7620 On ch=2 n=69 v=0
+7620 On ch=2 n=74 v=120
+7620 On ch=2 n=65 v=120
+7650 On ch=2 n=74 v=0
+7650 On ch=2 n=77 v=120
+7680 On ch=2 n=77 v=0
+7680 On ch=2 n=65 v=0
+7680 On ch=2 n=71 v=120
+7680 On ch=2 n=67 v=120
+7710 On ch=2 n=71 v=0
+7710 On ch=2 n=53 v=0
+7710 On ch=2 n=74 v=120
+7710 On ch=2 n=53 v=120
+7740 On ch=2 n=53 v=0
+7740 On ch=2 n=74 v=0
+7740 On ch=2 n=79 v=120
+7740 On ch=2 n=52 v=120
+7770 On ch=2 n=52 v=0
+7770 On ch=2 n=67 v=0
+7770 On ch=2 n=71 v=120
+7770 On ch=2 n=50 v=120
+7800 On ch=2 n=50 v=0
+7800 On ch=2 n=71 v=0
+7800 On ch=2 n=62 v=0
+7800 On ch=2 n=73 v=120
+7800 On ch=2 n=55 v=120
+7800 On ch=2 n=52 v=120
+7830 On ch=2 n=79 v=0
+7830 On ch=2 n=79 v=120
+7851 On ch=2 n=52 v=0
+7851 On ch=2 n=55 v=0
+7860 On ch=2 n=79 v=0
+7860 On ch=2 n=77 v=120
+7860 On ch=2 n=57 v=120
+7860 On ch=2 n=45 v=120
+7890 On ch=2 n=77 v=0
+7890 On ch=2 n=76 v=120
+7903 On ch=2 n=45 v=0
+7920 On ch=2 n=73 v=0
+7920 On ch=2 n=76 v=0
+7920 On ch=2 n=77 v=120
+7920 On ch=2 n=74 v=120
+7920 On ch=2 n=50 v=120
+7950 On ch=2 n=57 v=0
+7950 On ch=2 n=52 v=120
+7980 On ch=2 n=52 v=0
+7980 On ch=2 n=53 v=120
+7995 On ch=2 n=72 v=120
+7997 On ch=2 n=74 v=0
+8010 On ch=2 n=53 v=0
+8010 On ch=2 n=70 v=120
+8010 On ch=2 n=57 v=120
+8014 On ch=2 n=72 v=0
+8025 On ch=2 n=69 v=120
+8027 On ch=2 n=70 v=0
+8040 On ch=2 n=57 v=0
+8040 On ch=2 n=70 v=120
+8040 On ch=2 n=62 v=120
+8044 On ch=2 n=69 v=0
+8070 On ch=2 n=77 v=0
+8070 On ch=2 n=74 v=120
+8100 On ch=2 n=74 v=0
+8100 On ch=2 n=77 v=120
+8130 On ch=2 n=62 v=0
+8130 On ch=2 n=70 v=0
+8130 On ch=2 n=69 v=120
+8130 On ch=2 n=60 v=120
+8160 On ch=2 n=60 v=0
+8160 On ch=2 n=69 v=0
+8160 On ch=2 n=68 v=120
+8160 On ch=2 n=59 v=120
+8190 On ch=2 n=50 v=0
+8190 On ch=2 n=77 v=0
+8190 On ch=2 n=77 v=120
+8190 On ch=2 n=50 v=120
+8220 On ch=2 n=50 v=0
+8220 On ch=2 n=77 v=0
+8220 On ch=2 n=59 v=0
+8220 On ch=2 n=76 v=120
+8220 On ch=2 n=48 v=120
+8250 On ch=2 n=48 v=0
+8250 On ch=2 n=68 v=0
+8250 On ch=2 n=68 v=120
+8250 On ch=2 n=47 v=120
+8280 On ch=2 n=47 v=0
+8280 On ch=2 n=68 v=0
+8280 On ch=2 n=69 v=120
+8280 On ch=2 n=48 v=120
+8310 On ch=2 n=76 v=0
+8310 On ch=2 n=75 v=120
+8327 On ch=2 n=48 v=0
+8340 On ch=2 n=75 v=0
+8340 On ch=2 n=74 v=120
+8340 On ch=2 n=53 v=120
+8370 On ch=2 n=74 v=0
+8370 On ch=2 n=73 v=120
+8387 On ch=2 n=53 v=0
+8400 On ch=2 n=73 v=0
+8400 On ch=2 n=74 v=120
+8400 On ch=2 n=46 v=120
+8430 On ch=2 n=69 v=0
+8430 On ch=2 n=72 v=120
+8430 On ch=2 n=50 v=120
+8460 On ch=2 n=50 v=0
+8460 On ch=2 n=72 v=0
+8460 On ch=2 n=70 v=120
+8460 On ch=2 n=52 v=120
+8490 On ch=2 n=52 v=0
+8490 On ch=2 n=70 v=0
+8490 On ch=2 n=69 v=120
+8490 On ch=2 n=54 v=120
+8520 On ch=2 n=54 v=0
+8520 On ch=2 n=69 v=0
+8520 On ch=2 n=70 v=120
+8520 On ch=2 n=55 v=120
+8550 On ch=2 n=55 v=0
+8550 On ch=2 n=70 v=0
+8550 On ch=2 n=66 v=120
+8550 On ch=2 n=57 v=120
+8580 On ch=2 n=57 v=0
+8580 On ch=2 n=66 v=0
+8580 On ch=2 n=67 v=120
+8580 On ch=2 n=58 v=120
+8610 On ch=2 n=46 v=0
+8610 On ch=2 n=74 v=0
+8610 On ch=2 n=74 v=120
+8610 On ch=2 n=51 v=120
+8640 On ch=2 n=51 v=0
+8640 On ch=2 n=74 v=0
+8640 On ch=2 n=73 v=120
+8640 On ch=2 n=45 v=120
+8670 On ch=2 n=58 v=0
+8670 On ch=2 n=57 v=120
+8700 On ch=2 n=57 v=0
+8700 On ch=2 n=73 v=0
+8700 On ch=2 n=72 v=120
+8700 On ch=2 n=52 v=120
+8730 On ch=2 n=52 v=0
+8730 On ch=2 n=67 v=0
+8730 On ch=2 n=70 v=120
+8730 On ch=2 n=55 v=120
+8760 On ch=2 n=55 v=0
+8760 On ch=2 n=70 v=0
+8760 On ch=2 n=69 v=120
+8760 On ch=2 n=54 v=120
+8790 On ch=2 n=54 v=0
+8790 On ch=2 n=69 v=0
+8790 On ch=2 n=67 v=120
+8790 On ch=2 n=55 v=120
+8820 On ch=2 n=55 v=0
+8820 On ch=2 n=67 v=0
+8820 On ch=2 n=66 v=120
+8820 On ch=2 n=57 v=120
+8850 On ch=2 n=66 v=0
+8850 On ch=2 n=45 v=0
+8850 On ch=2 n=72 v=0
+8850 On ch=2 n=72 v=120
+8850 On ch=2 n=63 v=120
+8850 On ch=2 n=54 v=120
+8880 On ch=2 n=54 v=0
+8880 On ch=2 n=63 v=0
+8880 On ch=2 n=72 v=0
+8880 On ch=2 n=71 v=120
+8880 On ch=2 n=62 v=120
+8880 On ch=2 n=43 v=120
+8910 On ch=2 n=62 v=0
+8910 On ch=2 n=57 v=0
+8910 On ch=2 n=64 v=120
+8910 On ch=2 n=55 v=120
+8940 On ch=2 n=55 v=0
+8940 On ch=2 n=64 v=0
+8940 On ch=2 n=71 v=0
+8940 On ch=2 n=70 v=120
+8940 On ch=2 n=65 v=120
+8940 On ch=2 n=50 v=120
+8970 On ch=2 n=50 v=0
+8970 On ch=2 n=65 v=0
+8970 On ch=2 n=69 v=120
+8970 On ch=2 n=53 v=120
+9000 On ch=2 n=53 v=0
+9000 On ch=2 n=69 v=0
+9000 On ch=2 n=67 v=120
+9000 On ch=2 n=52 v=120
+9030 On ch=2 n=52 v=0
+9030 On ch=2 n=67 v=0
+9030 On ch=2 n=65 v=120
+9030 On ch=2 n=53 v=120
+9060 On ch=2 n=53 v=0
+9060 On ch=2 n=65 v=0
+9060 On ch=2 n=64 v=120
+9060 On ch=2 n=55 v=120
+9090 On ch=2 n=64 v=0
+9090 On ch=2 n=43 v=0
+9090 On ch=2 n=70 v=0
+9090 On ch=2 n=70 v=120
+9090 On ch=2 n=61 v=120
+9090 On ch=2 n=52 v=120
+9120 On ch=2 n=52 v=0
+9120 On ch=2 n=61 v=0
+9120 On ch=2 n=70 v=0
+9120 On ch=2 n=69 v=120
+9120 On ch=2 n=60 v=120
+9120 On ch=2 n=41 v=120
+9150 On ch=2 n=55 v=0
+9150 On ch=2 n=48 v=120
+9180 On ch=2 n=48 v=0
+9180 On ch=2 n=50 v=120
+9210 On ch=2 n=50 v=0
+9210 On ch=2 n=52 v=120
+9240 On ch=2 n=52 v=0
+9240 On ch=2 n=53 v=120
+9270 On ch=2 n=53 v=0
+9270 On ch=2 n=41 v=0
+9270 On ch=2 n=57 v=120
+9300 On ch=2 n=57 v=0
+9300 On ch=2 n=60 v=0
+9300 On ch=2 n=65 v=120
+9300 On ch=2 n=50 v=120
+9330 On ch=2 n=50 v=0
+9330 On ch=2 n=53 v=120
+9360 On ch=2 n=53 v=0
+9360 On ch=2 n=69 v=0
+9360 On ch=2 n=67 v=120
+9360 On ch=2 n=47 v=120
+9390 On ch=2 n=65 v=0
+9390 On ch=2 n=65 v=120
+9411 On ch=2 n=47 v=0
+9420 On ch=2 n=65 v=0
+9420 On ch=2 n=64 v=120
+9420 On ch=2 n=43 v=120
+9450 On ch=2 n=64 v=0
+9450 On ch=2 n=62 v=120
+9467 On ch=2 n=43 v=0
+9480 On ch=2 n=62 v=0
+9480 On ch=2 n=64 v=120
+9480 On ch=2 n=48 v=120
+9510 On ch=2 n=67 v=0
+9510 On ch=2 n=67 v=120
+9540 On ch=2 n=67 v=0
+9540 On ch=2 n=69 v=120
+9570 On ch=2 n=69 v=0
+9570 On ch=2 n=72 v=120
+9600 On ch=2 n=72 v=0
+9600 On ch=2 n=64 v=0
+9600 On ch=2 n=65 v=120
+9600 On ch=2 n=62 v=120
+9629 On ch=2 n=48 v=0
+9630 On ch=2 n=50 v=120
+9645 On ch=2 n=52 v=120
+9653 On ch=2 n=50 v=0
+9660 On ch=2 n=53 v=120
+9668 On ch=2 n=52 v=0
+9675 On ch=2 n=55 v=120
+9683 On ch=2 n=53 v=0
+9690 On ch=2 n=57 v=120
+9694 On ch=2 n=55 v=0
+9720 On ch=2 n=57 v=0
+9720 On ch=2 n=47 v=120
+9750 On ch=2 n=65 v=0
+9750 On ch=2 n=74 v=120
+9765 On ch=2 n=72 v=120
+9773 On ch=2 n=74 v=0
+9780 On ch=2 n=74 v=120
+9780 On ch=2 n=55 v=120
+9788 On ch=2 n=72 v=0
+9810 On ch=2 n=74 v=0
+9810 On ch=2 n=65 v=120
+9840 On ch=2 n=65 v=0
+9840 On ch=2 n=47 v=0
+9840 On ch=2 n=64 v=120
+9840 On ch=2 n=48 v=120
+9870 On ch=2 n=62 v=0
+9870 On ch=2 n=62 v=120
+9900 On ch=2 n=62 v=0
+9900 On ch=2 n=60 v=120
+9930 On ch=2 n=60 v=0
+9930 On ch=2 n=59 v=120
+9960 On ch=2 n=59 v=0
+9960 On ch=2 n=60 v=120
+9990 On ch=2 n=64 v=0
+9990 On ch=2 n=67 v=120
+10020 On ch=2 n=67 v=0
+10020 On ch=2 n=60 v=0
+10020 On ch=2 n=55 v=0
+10020 On ch=2 n=48 v=0
+10020 On ch=2 n=69 v=120
+10020 On ch=2 n=47 v=120
+10050 On ch=2 n=69 v=0
+10050 On ch=2 n=71 v=120
+10080 On ch=2 n=71 v=0
+10080 On ch=2 n=47 v=0
+10080 On ch=2 n=72 v=120
+10080 On ch=2 n=45 v=120
+10110 On ch=2 n=69 v=120
+10140 On ch=2 n=69 v=0
+10140 On ch=2 n=45 v=0
+10140 On ch=2 n=64 v=120
+10140 On ch=2 n=57 v=120
+10140 On ch=2 n=48 v=120
+10170 On ch=2 n=64 v=0
+10170 On ch=2 n=67 v=120
+10200 On ch=2 n=67 v=0
+10200 On ch=2 n=48 v=0
+10200 On ch=2 n=66 v=120
+10200 On ch=2 n=50 v=120
+10230 On ch=2 n=66 v=0
+10230 On ch=2 n=69 v=120
+10260 On ch=2 n=69 v=0
+10260 On ch=2 n=50 v=0
+10260 On ch=2 n=62 v=120
+10260 On ch=2 n=54 v=120
+10290 On ch=2 n=72 v=0
+10290 On ch=2 n=72 v=120
+10320 On ch=2 n=72 v=0
+10320 On ch=2 n=54 v=0
+10320 On ch=2 n=71 v=120
+10320 On ch=2 n=43 v=120
+10350 On ch=2 n=57 v=0
+10350 On ch=2 n=50 v=120
+10380 On ch=2 n=50 v=0
+10380 On ch=2 n=52 v=120
+10410 On ch=2 n=52 v=0
+10410 On ch=2 n=54 v=120
+10440 On ch=2 n=54 v=0
+10440 On ch=2 n=55 v=120
+10470 On ch=2 n=43 v=0
+10470 On ch=2 n=59 v=120
+10500 On ch=2 n=59 v=0
+10500 On ch=2 n=55 v=0
+10500 On ch=2 n=71 v=0
+10500 On ch=2 n=62 v=0
+10500 On ch=2 n=73 v=120
+10500 On ch=2 n=67 v=120
+10500 On ch=2 n=52 v=120
+10515 On ch=2 n=74 v=120
+10523 On ch=2 n=73 v=0
+10530 On ch=2 n=52 v=0
+10530 On ch=2 n=76 v=120
+10530 On ch=2 n=55 v=120
+10538 On ch=2 n=74 v=0
+10560 On ch=2 n=55 v=0
+10560 On ch=2 n=76 v=0
+10560 On ch=2 n=69 v=120
+10560 On ch=2 n=49 v=120
+10590 On ch=2 n=67 v=0
+10590 On ch=2 n=67 v=120
+10607 On ch=2 n=49 v=0
+10620 On ch=2 n=67 v=0
+10620 On ch=2 n=65 v=120
+10620 On ch=2 n=45 v=120
+10650 On ch=2 n=65 v=0
+10650 On ch=2 n=64 v=120
+10671 On ch=2 n=45 v=0
+10680 On ch=2 n=64 v=0
+10680 On ch=2 n=65 v=120
+10680 On ch=2 n=50 v=120
+10710 On ch=2 n=69 v=0
+10710 On ch=2 n=69 v=120
+10740 On ch=2 n=69 v=0
+10740 On ch=2 n=50 v=0
+10740 On ch=2 n=70 v=120
+10740 On ch=2 n=48 v=120
+10770 On ch=2 n=70 v=0
+10770 On ch=2 n=72 v=120
+10800 On ch=2 n=72 v=0
+10800 On ch=2 n=48 v=0
+10800 On ch=2 n=74 v=120
+10800 On ch=2 n=46 v=120
+10815 On ch=2 n=72 v=120
+10823 On ch=2 n=74 v=0
+10830 On ch=2 n=70 v=120
+10838 On ch=2 n=72 v=0
+10845 On ch=2 n=69 v=120
+10853 On ch=2 n=70 v=0
+10860 On ch=2 n=46 v=0
+10860 On ch=2 n=70 v=120
+10860 On ch=2 n=45 v=120
+10864 On ch=2 n=69 v=0
+10890 On ch=2 n=70 v=0
+10890 On ch=2 n=74 v=120
+10920 On ch=2 n=74 v=0
+10920 On ch=2 n=65 v=0
+10920 On ch=2 n=45 v=0
+10920 On ch=2 n=67 v=120
+10920 On ch=2 n=46 v=120
+10924 On ch=2 n=67 v=120
+10950 On ch=2 n=67 v=0
+10950 On ch=2 n=77 v=120
+10967 On ch=2 n=46 v=0
+10980 On ch=2 n=77 v=0
+10980 On ch=2 n=76 v=120
+10980 On ch=2 n=43 v=120
+11010 On ch=2 n=76 v=0
+11010 On ch=2 n=74 v=120
+11027 On ch=2 n=43 v=0
+11040 On ch=2 n=74 v=0
+11040 On ch=2 n=73 v=120
+11040 On ch=2 n=45 v=120
+11070 On ch=2 n=70 v=120
+11074 On ch=2 n=67 v=0
+11100 On ch=2 n=70 v=0
+11100 On ch=2 n=69 v=120
+11130 On ch=2 n=69 v=0
+11130 On ch=2 n=67 v=120
+11160 On ch=2 n=67 v=0
+11160 On ch=2 n=65 v=120
+11190 On ch=2 n=73 v=0
+11190 On ch=2 n=69 v=120
+11220 On ch=2 n=69 v=0
+11220 On ch=2 n=74 v=120
+11250 On ch=2 n=65 v=0
+11250 On ch=2 n=65 v=120
+11280 On ch=2 n=65 v=0
+11280 On ch=2 n=64 v=120
+11310 On ch=2 n=45 v=0
+11310 On ch=2 n=52 v=120
+11340 On ch=2 n=52 v=0
+11340 On ch=2 n=74 v=0
+11340 On ch=2 n=74 v=120
+11340 On ch=2 n=53 v=120
+11370 On ch=2 n=53 v=0
+11370 On ch=2 n=55 v=120
+11400 On ch=2 n=55 v=0
+11400 On ch=2 n=74 v=0
+11400 On ch=2 n=72 v=120
+11400 On ch=2 n=57 v=120
+11430 On ch=2 n=57 v=0
+11430 On ch=2 n=60 v=120
+11460 On ch=2 n=60 v=0
+11460 On ch=2 n=72 v=0
+11460 On ch=2 n=64 v=0
+11460 On ch=2 n=70 v=120
+11460 On ch=2 n=67 v=120
+11460 On ch=2 n=52 v=120
+11490 On ch=2 n=52 v=0
+11490 On ch=2 n=55 v=120
+11520 On ch=2 n=55 v=0
+11520 On ch=2 n=70 v=0
+11520 On ch=2 n=69 v=120
+11520 On ch=2 n=54 v=120
+11550 On ch=2 n=54 v=0
+11550 On ch=2 n=67 v=0
+11550 On ch=2 n=67 v=120
+11550 On ch=2 n=57 v=120
+11580 On ch=2 n=57 v=0
+11580 On ch=2 n=67 v=0
+11580 On ch=2 n=66 v=120
+11580 On ch=2 n=50 v=120
+11610 On ch=2 n=69 v=0
+11610 On ch=2 n=69 v=120
+11610 On ch=2 n=60 v=120
+11640 On ch=2 n=50 v=0
+11640 On ch=2 n=66 v=0
+11640 On ch=2 n=62 v=120
+11640 On ch=2 n=55 v=120
+11670 On ch=2 n=69 v=0
+11670 On ch=2 n=60 v=0
+11670 On ch=2 n=69 v=120
+11670 On ch=2 n=60 v=120
+11700 On ch=2 n=60 v=0
+11700 On ch=2 n=69 v=0
+11700 On ch=2 n=67 v=120
+11700 On ch=2 n=58 v=120
+11730 On ch=2 n=58 v=0
+11730 On ch=2 n=67 v=0
+11730 On ch=2 n=66 v=120
+11730 On ch=2 n=57 v=120
+11760 On ch=2 n=57 v=0
+11760 On ch=2 n=66 v=0
+11760 On ch=2 n=67 v=120
+11760 On ch=2 n=58 v=120
+11790 On ch=2 n=67 v=0
+11790 On ch=2 n=74 v=120
+11820 On ch=2 n=55 v=0
+11820 On ch=2 n=62 v=0
+11820 On ch=2 n=76 v=120
+11820 On ch=2 n=50 v=120
+11829 On ch=2 n=74 v=0
+11850 On ch=2 n=78 v=120
+11859 On ch=2 n=76 v=0
+11880 On ch=2 n=50 v=0
+11880 On ch=2 n=79 v=120
+11880 On ch=2 n=51 v=120
+11889 On ch=2 n=78 v=0
+11910 On ch=2 n=82 v=120
+11911 On ch=2 n=79 v=0
+11940 On ch=2 n=51 v=0
+11940 On ch=2 n=74 v=120
+11940 On ch=2 n=55 v=120
+11970 On ch=2 n=74 v=0
+11970 On ch=2 n=77 v=120
+12000 On ch=2 n=77 v=0
+12000 On ch=2 n=55 v=0
+12000 On ch=2 n=58 v=0
+12000 On ch=2 n=75 v=120
+12000 On ch=2 n=60 v=120
+12000 On ch=2 n=48 v=120
+12030 On ch=2 n=82 v=0
+12030 On ch=2 n=82 v=120
+12060 On ch=2 n=82 v=0
+12060 On ch=2 n=80 v=120
+12090 On ch=2 n=80 v=0
+12090 On ch=2 n=79 v=120
+12120 On ch=2 n=79 v=0
+12120 On ch=2 n=80 v=120
+12150 On ch=2 n=80 v=0
+12150 On ch=2 n=84 v=120
+12180 On ch=2 n=84 v=0
+12180 On ch=2 n=78 v=120
+12210 On ch=2 n=78 v=0
+12210 On ch=2 n=79 v=120
+12240 On ch=2 n=79 v=0
+12240 On ch=2 n=48 v=0
+12240 On ch=2 n=78 v=120
+12240 On ch=2 n=50 v=120
+12270 On ch=2 n=75 v=0
+12270 On ch=2 n=75 v=120
+12300 On ch=2 n=75 v=0
+12300 On ch=2 n=74 v=120
+12330 On ch=2 n=60 v=0
+12330 On ch=2 n=60 v=120
+12360 On ch=2 n=60 v=0
+12360 On ch=2 n=59 v=120
+12390 On ch=2 n=74 v=0
+12390 On ch=2 n=74 v=120
+12420 On ch=2 n=59 v=0
+12420 On ch=2 n=78 v=0
+12420 On ch=2 n=79 v=120
+12420 On ch=2 n=58 v=120
+12450 On ch=2 n=74 v=0
+12450 On ch=2 n=73 v=120
+12480 On ch=2 n=73 v=0
+12480 On ch=2 n=58 v=0
+12480 On ch=2 n=74 v=120
+12480 On ch=2 n=57 v=120
+12510 On ch=2 n=79 v=0
+12510 On ch=2 n=79 v=120
+12540 On ch=2 n=79 v=0
+12540 On ch=2 n=57 v=0
+12540 On ch=2 n=78 v=120
+12540 On ch=2 n=55 v=120
+12570 On ch=2 n=78 v=0
+12570 On ch=2 n=76 v=120
+12600 On ch=2 n=76 v=0
+12600 On ch=2 n=55 v=0
+12600 On ch=2 n=50 v=0
+12600 On ch=2 n=78 v=120
+12600 On ch=2 n=57 v=120
+12600 On ch=2 n=50 v=120
+12630 On ch=2 n=78 v=0
+12630 On ch=2 n=79 v=120
+12651 On ch=2 n=57 v=0
+12660 On ch=2 n=79 v=0
+12660 On ch=2 n=81 v=120
+12660 On ch=2 n=62 v=120
+12690 On ch=2 n=74 v=0
+12690 On ch=2 n=72 v=120
+12720 On ch=2 n=72 v=0
+12720 On ch=2 n=50 v=0
+12720 On ch=2 n=70 v=120
+12720 On ch=2 n=55 v=120
+12750 On ch=2 n=81 v=0
+12750 On ch=2 n=74 v=120
+12780 On ch=2 n=74 v=0
+12780 On ch=2 n=62 v=0
+12780 On ch=2 n=70 v=0
+12780 On ch=2 n=79 v=120
+12780 On ch=2 n=72 v=120
+12780 On ch=2 n=63 v=120
+12810 On ch=2 n=79 v=0
+12810 On ch=2 n=78 v=120
+12840 On ch=2 n=78 v=0
+12840 On ch=2 n=63 v=0
+12840 On ch=2 n=79 v=120
+12840 On ch=2 n=62 v=120
+12870 On ch=2 n=72 v=0
+12870 On ch=2 n=70 v=120
+12900 On ch=2 n=70 v=0
+12900 On ch=2 n=62 v=0
+12900 On ch=2 n=75 v=120
+12900 On ch=2 n=60 v=120
+12930 On ch=2 n=79 v=0
+12930 On ch=2 n=81 v=120
+12960 On ch=2 n=81 v=0
+12960 On ch=2 n=60 v=0
+12960 On ch=2 n=75 v=0
+12960 On ch=2 n=82 v=120
+12960 On ch=2 n=74 v=120
+12960 On ch=2 n=58 v=120
+12990 On ch=2 n=58 v=0
+12990 On ch=2 n=60 v=120
+13020 On ch=2 n=60 v=0
+13020 On ch=2 n=62 v=120
+13050 On ch=2 n=74 v=0
+13050 On ch=2 n=55 v=0
+13050 On ch=2 n=74 v=120
+13050 On ch=2 n=53 v=120
+13080 On ch=2 n=53 v=0
+13080 On ch=2 n=74 v=0
+13080 On ch=2 n=79 v=120
+13080 On ch=2 n=52 v=120
+13110 On ch=2 n=82 v=0
+13110 On ch=2 n=62 v=0
+13110 On ch=2 n=81 v=120
+13110 On ch=2 n=61 v=120
+13140 On ch=2 n=61 v=0
+13140 On ch=2 n=81 v=0
+13140 On ch=2 n=82 v=120
+13140 On ch=2 n=62 v=120
+13170 On ch=2 n=79 v=0
+13170 On ch=2 n=52 v=0
+13170 On ch=2 n=79 v=120
+13170 On ch=2 n=50 v=120
+13200 On ch=2 n=50 v=0
+13200 On ch=2 n=62 v=0
+13200 On ch=2 n=82 v=0
+13200 On ch=2 n=81 v=120
+13200 On ch=2 n=49 v=120
+13230 On ch=2 n=79 v=0
+13230 On ch=2 n=79 v=120
+13230 On ch=2 n=57 v=120
+13260 On ch=2 n=57 v=0
+13260 On ch=2 n=79 v=0
+13260 On ch=2 n=49 v=0
+13260 On ch=2 n=77 v=120
+13260 On ch=2 n=59 v=120
+13290 On ch=2 n=59 v=0
+13290 On ch=2 n=77 v=0
+13290 On ch=2 n=76 v=120
+13290 On ch=2 n=61 v=120
+13320 On ch=2 n=61 v=0
+13320 On ch=2 n=76 v=0
+13320 On ch=2 n=77 v=120
+13320 On ch=2 n=62 v=120
+13350 On ch=2 n=62 v=0
+13350 On ch=2 n=57 v=120
+13380 On ch=2 n=57 v=0
+13380 On ch=2 n=50 v=120
+13410 On ch=2 n=50 v=0
+13410 On ch=2 n=81 v=0
+13410 On ch=2 n=80 v=120
+13410 On ch=2 n=53 v=120
+13440 On ch=2 n=53 v=0
+13440 On ch=2 n=80 v=0
+13440 On ch=2 n=79 v=120
+13440 On ch=2 n=47 v=120
+13470 On ch=2 n=77 v=0
+13470 On ch=2 n=77 v=120
+13470 On ch=2 n=55 v=120
+13500 On ch=2 n=55 v=0
+13500 On ch=2 n=77 v=0
+13500 On ch=2 n=47 v=0
+13500 On ch=2 n=76 v=120
+13500 On ch=2 n=57 v=120
+13530 On ch=2 n=57 v=0
+13530 On ch=2 n=76 v=0
+13530 On ch=2 n=74 v=120
+13530 On ch=2 n=59 v=120
+13560 On ch=2 n=59 v=0
+13560 On ch=2 n=74 v=0
+13560 On ch=2 n=76 v=120
+13560 On ch=2 n=60 v=120
+13590 On ch=2 n=60 v=0
+13590 On ch=2 n=55 v=120
+13620 On ch=2 n=55 v=0
+13620 On ch=2 n=48 v=120
+13650 On ch=2 n=48 v=0
+13650 On ch=2 n=79 v=0
+13650 On ch=2 n=79 v=120
+13650 On ch=2 n=52 v=120
+13680 On ch=2 n=52 v=0
+13680 On ch=2 n=79 v=0
+13680 On ch=2 n=78 v=120
+13680 On ch=2 n=45 v=120
+13710 On ch=2 n=76 v=0
+13710 On ch=2 n=75 v=120
+13740 On ch=2 n=75 v=0
+13740 On ch=2 n=74 v=120
+13740 On ch=2 n=57 v=120
+13770 On ch=2 n=74 v=0
+13770 On ch=2 n=72 v=120
+13800 On ch=2 n=72 v=0
+13800 On ch=2 n=45 v=0
+13800 On ch=2 n=74 v=120
+13800 On ch=2 n=47 v=120
+13830 On ch=2 n=78 v=0
+13830 On ch=2 n=57 v=0
+13830 On ch=2 n=76 v=120
+13830 On ch=2 n=55 v=120
+13860 On ch=2 n=55 v=0
+13860 On ch=2 n=76 v=0
+13860 On ch=2 n=77 v=120
+13860 On ch=2 n=67 v=120
+13860 On ch=2 n=50 v=120
+13890 On ch=2 n=50 v=0
+13890 On ch=2 n=53 v=120
+13920 On ch=2 n=53 v=0
+13920 On ch=2 n=47 v=0
+13920 On ch=2 n=52 v=120
+13920 On ch=2 n=48 v=120
+13950 On ch=2 n=52 v=0
+13950 On ch=2 n=53 v=120
+13980 On ch=2 n=53 v=0
+13980 On ch=2 n=74 v=0
+13980 On ch=2 n=77 v=0
+13980 On ch=2 n=76 v=120
+13980 On ch=2 n=72 v=120
+13980 On ch=2 n=55 v=120
+14010 On ch=2 n=72 v=0
+14010 On ch=2 n=76 v=0
+14010 On ch=2 n=74 v=120
+14010 On ch=2 n=71 v=120
+14040 On ch=2 n=71 v=0
+14040 On ch=2 n=74 v=0
+14040 On ch=2 n=76 v=120
+14040 On ch=2 n=72 v=120
+14070 On ch=2 n=55 v=0
+14070 On ch=2 n=48 v=0
+14070 On ch=2 n=52 v=120
+14100 On ch=2 n=52 v=0
+14100 On ch=2 n=67 v=0
+14100 On ch=2 n=70 v=120
+14100 On ch=2 n=45 v=120
+14130 On ch=2 n=45 v=0
+14130 On ch=2 n=48 v=120
+14160 On ch=2 n=48 v=0
+14160 On ch=2 n=70 v=0
+14160 On ch=2 n=72 v=0
+14160 On ch=2 n=69 v=120
+14160 On ch=2 n=41 v=120
+14190 On ch=2 n=41 v=0
+14190 On ch=2 n=76 v=0
+14190 On ch=2 n=76 v=120
+14190 On ch=2 n=48 v=120
+14220 On ch=2 n=48 v=0
+14220 On ch=2 n=76 v=0
+14220 On ch=2 n=74 v=120
+14220 On ch=2 n=50 v=120
+14250 On ch=2 n=50 v=0
+14250 On ch=2 n=74 v=0
+14250 On ch=2 n=72 v=120
+14250 On ch=2 n=52 v=120
+14280 On ch=2 n=52 v=0
+14280 On ch=2 n=72 v=0
+14280 On ch=2 n=74 v=120
+14280 On ch=2 n=53 v=120
+14310 On ch=2 n=74 v=0
+14310 On ch=2 n=77 v=120
+14310 On ch=2 n=57 v=120
+14340 On ch=2 n=57 v=0
+14340 On ch=2 n=77 v=0
+14340 On ch=2 n=81 v=120
+14340 On ch=2 n=62 v=120
+14370 On ch=2 n=81 v=0
+14370 On ch=2 n=69 v=0
+14370 On ch=2 n=72 v=120
+14370 On ch=2 n=69 v=120
+14400 On ch=2 n=69 v=0
+14400 On ch=2 n=72 v=0
+14400 On ch=2 n=62 v=0
+14400 On ch=2 n=71 v=120
+14400 On ch=2 n=67 v=120
+14400 On ch=2 n=62 v=120
+14430 On ch=2 n=53 v=0
+14430 On ch=2 n=57 v=120
+14460 On ch=2 n=57 v=0
+14460 On ch=2 n=55 v=120
+14490 On ch=2 n=55 v=0
+14490 On ch=2 n=53 v=120
+14520 On ch=2 n=53 v=0
+14520 On ch=2 n=62 v=0
+14520 On ch=2 n=67 v=0
+14520 On ch=2 n=71 v=0
+14520 On ch=2 n=72 v=120
+14520 On ch=2 n=67 v=120
+14520 On ch=2 n=64 v=120
+14520 On ch=2 n=52 v=120
+14550 On ch=2 n=52 v=0
+14550 On ch=2 n=55 v=120
+14580 On ch=2 n=55 v=0
+14580 On ch=2 n=48 v=120
+14610 On ch=2 n=48 v=0
+14610 On ch=2 n=52 v=120
+14640 On ch=2 n=52 v=0
+14640 On ch=2 n=43 v=120
+14670 On ch=2 n=64 v=0
+14670 On ch=2 n=67 v=0
+14670 On ch=2 n=67 v=120
+14670 On ch=2 n=52 v=120
+14700 On ch=2 n=52 v=0
+14700 On ch=2 n=67 v=0
+14700 On ch=2 n=65 v=120
+14700 On ch=2 n=50 v=120
+14730 On ch=2 n=50 v=0
+14730 On ch=2 n=65 v=0
+14730 On ch=2 n=64 v=120
+14730 On ch=2 n=48 v=120
+14760 On ch=2 n=48 v=0
+14760 On ch=2 n=64 v=0
+14760 On ch=2 n=62 v=120
+14760 On ch=2 n=55 v=120
+14790 On ch=2 n=62 v=0
+14790 On ch=2 n=64 v=120
+14820 On ch=2 n=64 v=0
+14820 On ch=2 n=65 v=120
+14850 On ch=2 n=72 v=0
+14850 On ch=2 n=71 v=120
+14880 On ch=2 n=71 v=0
+14880 On ch=2 n=43 v=0
+14880 On ch=2 n=72 v=120
+14880 On ch=2 n=48 v=120
+14910 On ch=2 n=65 v=0
+14910 On ch=2 n=65 v=120
+14940 On ch=2 n=65 v=0
+14940 On ch=2 n=64 v=120
+14970 On ch=2 n=64 v=0
+14970 On ch=2 n=62 v=120
+15000 On ch=2 n=62 v=0
+15000 On ch=2 n=64 v=120
+15030 On ch=2 n=64 v=0
+15030 On ch=2 n=67 v=120
+15060 On ch=2 n=67 v=0
+15060 On ch=2 n=60 v=120
+15090 On ch=2 n=60 v=0
+15090 On ch=2 n=64 v=120
+15120 On ch=2 n=64 v=0
+15120 On ch=2 n=72 v=0
+15120 On ch=2 n=57 v=120
+15150 On ch=2 n=72 v=120
+15180 On ch=2 n=72 v=0
+15180 On ch=2 n=55 v=0
+15180 On ch=2 n=74 v=120
+15180 On ch=2 n=53 v=120
+15210 On ch=2 n=53 v=0
+15210 On ch=2 n=74 v=0
+15210 On ch=2 n=76 v=120
+15210 On ch=2 n=52 v=120
+15240 On ch=2 n=52 v=0
+15240 On ch=2 n=76 v=0
+15240 On ch=2 n=77 v=120
+15240 On ch=2 n=50 v=120
+15270 On ch=2 n=50 v=0
+15270 On ch=2 n=77 v=0
+15270 On ch=2 n=81 v=120
+15270 On ch=2 n=52 v=120
+15300 On ch=2 n=52 v=0
+15300 On ch=2 n=81 v=0
+15300 On ch=2 n=74 v=120
+15300 On ch=2 n=53 v=120
+15330 On ch=2 n=74 v=0
+15330 On ch=2 n=77 v=120
+15360 On ch=2 n=77 v=0
+15360 On ch=2 n=57 v=0
+15360 On ch=2 n=70 v=120
+15360 On ch=2 n=55 v=120
+15390 On ch=2 n=69 v=120
+15420 On ch=2 n=69 v=0
+15420 On ch=2 n=53 v=0
+15420 On ch=2 n=67 v=120
+15420 On ch=2 n=52 v=120
+15450 On ch=2 n=52 v=0
+15450 On ch=2 n=67 v=0
+15450 On ch=2 n=65 v=120
+15450 On ch=2 n=50 v=120
+15480 On ch=2 n=50 v=0
+15480 On ch=2 n=65 v=0
+15480 On ch=2 n=67 v=120
+15480 On ch=2 n=52 v=120
+15510 On ch=2 n=55 v=0
+15510 On ch=2 n=70 v=0
+15510 On ch=2 n=70 v=120
+15510 On ch=2 n=53 v=120
+15540 On ch=2 n=53 v=0
+15540 On ch=2 n=67 v=0
+15540 On ch=2 n=64 v=120
+15540 On ch=2 n=55 v=120
+15570 On ch=2 n=70 v=0
+15570 On ch=2 n=67 v=120
+15600 On ch=2 n=64 v=0
+15600 On ch=2 n=55 v=0
+15600 On ch=2 n=52 v=0
+15600 On ch=2 n=60 v=120
+15600 On ch=2 n=57 v=120
+15600 On ch=2 n=53 v=120
+15630 On ch=2 n=67 v=0
+15630 On ch=2 n=64 v=120
+15660 On ch=2 n=64 v=0
+15660 On ch=2 n=53 v=0
+15660 On ch=2 n=57 v=0
+15660 On ch=2 n=65 v=120
+15660 On ch=2 n=55 v=120
+15660 On ch=2 n=52 v=120
+15690 On ch=2 n=65 v=0
+15690 On ch=2 n=67 v=120
+15720 On ch=2 n=67 v=0
+15720 On ch=2 n=52 v=0
+15720 On ch=2 n=55 v=0
+15720 On ch=2 n=60 v=0
+15720 On ch=2 n=69 v=120
+15720 On ch=2 n=53 v=120
+15720 On ch=2 n=50 v=120
+15750 On ch=2 n=65 v=120
+15780 On ch=2 n=65 v=0
+15780 On ch=2 n=56 v=120
+15780 On ch=2 n=62 v=120
+15810 On ch=2 n=69 v=0
+15810 On ch=2 n=71 v=120
+15840 On ch=2 n=71 v=0
+15840 On ch=2 n=62 v=0
+15840 On ch=2 n=50 v=0
+15840 On ch=2 n=48 v=0
+15840 On ch=2 n=53 v=0
+15840 On ch=2 n=56 v=0
+15840 On ch=2 n=48 v=120
+15844 On ch=2 n=52 v=120
+15848 On ch=2 n=55 v=120
+15852 On ch=2 n=60 v=120
+15856 On ch=2 n=64 v=120
+15860 On ch=2 n=67 v=120
+15864 On ch=2 n=72 v=120
+16320 On ch=2 n=48 v=0
+16323 On ch=2 n=67 v=0
+16323 On ch=2 n=55 v=0
+16323 On ch=2 n=60 v=0
+16323 On ch=2 n=52 v=0
+16323 On ch=2 n=72 v=0
+16323 On ch=2 n=64 v=0
+16323 Meta TrkEnd
+TrkEnd
+MTrk
+0 Meta TrkEnd
+TrkEnd

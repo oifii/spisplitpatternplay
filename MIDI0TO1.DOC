@@ -1,0 +1,142 @@
+		******************************
+			MIDI0TO1 v1.4
+	
+		   midi binary format 0 to 1
+		      by Guenter Nagler 
+			    1995 
+		  (info@gnmidi.com)
+		******************************
+
+[0] FEATURES
+    + reads a binary midi file of format 0 (needs to be valid)
+    + writes a binary midi files of format 1 
+    + splits all tracks of input into separate track 
+    + creates a leading tempo track and a track for each used channel (1-16)
+
+[1] BACKGROUND
+Midi format 0 contains only one track. Midi format 1 contains a tempo track 
+and one or more singlechannel tracks that should be played together. 
+Midi format 1 files are easier to modify (e.g. with MIDI2TXT/TXT2MIDI)
+because the channel jumping operator [##] is not needed. Midi format 1
+files are printed using MIDI2TXT as
+  MTrk($A)
+   ...
+  end Mtrk
+
+Use MIDI2TXT -i to show the version of midi file.
+
+[2] FILES DESCRIPTION
+
+MIDI0TO1.EXE.........converter program
+MIDI0TO1.DOC.........this file, showing usage of MIDI0TO1.EXE
+only MIDI0TO1.EXE is required to run program
+
+[3] COPYRIGHT
+
+MIDI0TO1 (c) 1995 was created by Guenter Nagler.
+
+MIDI0TO1 is free and may be used as you wish with this one exception:
+
+    You may NOT charge any fee or derive any profit for distribution
+    of MIDI0TO1.  Thus, you may NOT sell or bundle MIDI0TO1 with any 
+    product in a retail environment (shareware disk distribution, CD-ROM,
+    etc.) without permission of the author.
+
+You may give MIDI0TO1 to your friends, upload it to a BBS, or ftp it to
+another internet site, as long as you don't charge anything for it.
+
+Distributing modified programs or own programs that use parts of this 
+program requires permission of author!
+
+[4] DISCLAIMER
+
+MIDI0TO1 was designed to handle 100% compatible midi files.
+Normally the program stops when illegal or corrupt midifiles are 
+used at input. 
+
+Use MIDI0TO1 at your own risk.  Anything you do with MIDI0TO1 is your
+responsibility, and not the author's.  Any damage caused to any person,
+computer, software, hardware, company, or business by running MIDI0TO1 
+is your responsibility, and the author will not be liable.
+
+If you don't understand these terms, or are not sure of something, or
+are afraid something bad might come of using MIDI0TO1, don't  use  it!
+You are here forewarned.
+
+[5] INSTALLATION
+
+[MSDOS]
+Simply copy MIDI0TO1.EXE in a directory that is in your path.
+When you start the program without arguments
+
+C:\> MIDI0TO1
+
+you should get the usage text (see next section)
+
+[6] USAGE
+
+usage: MIDI0TO1 srcfile.mid destfile.mid
+
+MIDI0TO1 does not convert files that are not of format 0!
+In this case the program prints the version and exits.
+
+Warning: MIDI0TO1 does not warn about overwriting existing destfile.mid !
+
+M0TO1.BAT:
+    This DOS batch file makes conversion of one or more midi files easier.
+
+    Simply start it in a directory containing midi files (*.mid). 
+    It generates a new subdirectory RESULT containing
+    converted files and copies of all files that were not convertable 
+    (e.g. already format 1, or corrupt).
+
+[8] SUGGESTIONS / COMMENTS / BUG REPORTS / QUESTIONS
+
+	     WWW:    http://www.gnmidi.com
+  		contains all my dos/unix midi programs
+	     EMAIL:  info@gnmidi.com
+
+[9] USE
+For example, you have a midi file example0.mid that you expect to be format 0.
+
+MIDI0TO1 example0.mid example1.mid
+
+If it is a format 2 midi, the program will stop with a message like that:
+   "example0.mid is format 2. This program does not convert it to 0."
+
+If it is a format 1 midi, the program will stop with a message like that:
+   "example1.mid is already format 1"
+
+If it is a format 0 midi, it will try to split the track into example1.mid:
+  23%  (counting from 0 to 100)
+  "output written to example1.mid"
+
+convert all midi files (*.mid) in a directory:
+
+cd \midis
+M1TO0
+cd result
+dir *.mid
+
+Hint: if you want to convert only a list of certain files then make a 
+new directory and copy these files into the directory and start M1TO0 in it.
+
+Hint: Use midifmt to list the midi files with their format info.
+
+[10] CHANGES
+v1.0 to v1.1:
+  * used updated midiio 
+  * when converting midi files containing many tracks (e.g. 130) a message
+    "assert failed ..." ocurred because of not enough memory 
+    changed assert into error message "out of memory" and compiled in large
+    memory model to access more memory.
+
+v1.1 to v1.2:
+  * prevent of producing empty file if format of input mid is not 0.
+  * batch file m0to1.bat included. 
+
+v1.2 to v1.3
+  * supporting long events (sysex, meta larger than 1 kb)
+
+v1.3 to v1.4
+  * help for users that cannot use DOS utilities

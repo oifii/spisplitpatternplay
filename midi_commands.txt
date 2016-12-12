@@ -1,0 +1,118 @@
+downloaded from http://www.gnmidi.com/gnfreeen.htm
+
+
+
+
+Freeware - for private noncommercial use (PC only)
+MIDI Windows utilities
+GN1:0 	Converts binary midi file format from 1 to 0, including a simple MIDI Karaoke player. Presents information about GNMIDI facilities.
+MIDI DOS commandline utilities
+Hint 	You need some DOS knowledge to use following DOS commandline tools inside MS-DOS box (cmd.exe). The DOS utilities work only in 32bit Windows versions or using a DOS 16 bit emulator in Windows 7 64bit (e.g. dosbox or XP mode). There are many good tutorials about learning DOS commandline in internet available e.g. http://www.bleepingcomputer.com/tutorials/tutorial76.html. Running the commandline utilities does not require midiio.zip . The DOS utilities are not developed further.
+Many of the tools are included in Windows Shareware GNMIDI, which is easier to use and contains improved versions of the tools.
+midi2txt 	Converts binary midi file into text midi file.
+txt2midi 	Compiles text file into binary midi file.
+midi2gm 	modifies midi file to make it more compatible for GM compatible keyboards
+midifix 	Correcting bad structured midi files
+midi2to0 	Converts format 2 midi file into several midi format 0 files.
+midi1to0 	Converts format 1 midi file into format 0 midi file
+midi0to1 	Converts format 0 midi file into format 1 midi file
+midi0to2 	Converts format 0 midi file into format 2 midi file (rarely used format).
+midifade 	fades song volume in or out
+midipat 	translates GM programs to Non-GM programs and maps drum instruments according to a .pat definition. Including Mark Robson's iperc2gm.bat which translates Korg i-series percussion track to GM.
+miditran 	Transposes notes, changes volume, note velocities
+mididmp 	Time sorted dump of notes.
+dmp2midi 	Note dump back to midi file.
+midi2hex 	Shows hexadecimal midi commands and their meaning.
+midifind 	Find text in midi files (*,? allowed).
+miditrk 	lists tracks of a midi file. Shows GM,GS,XG program names.
+midigrab 	Extract a midi song from uncompressed archives (e.g. RIFF, RMI, MACINTOSH-MIDI, ...).
+mididrum 	Split midi drum instruments or tracks with more programs into separate tracks.
+midisort 	Sort tracks of midi file
+midistat 	Statistics of a midi file
+midifmt 	Tells midi version (0, 1, 2) and number of tracks of midi files.
+midivol 	Set volume of midi files to a common maximum level.
+mididir 	Midi directory listing, add title to a midi file
+miditrim 	Remove pauses at beginning or end of a midi file.
+midimap 	Map channel numbers.
+mapnotes 	Changes notes by a note translation table.
+midicut 	Cuts a part of a midi file and saves it into a new midi file. Cuts also certain midi channels
+midinote 	Produces a note listing
+note2mid 	converts note listing to a midi file.
+midreset 	sets a reset sysex command (GM, XG, GS).
+midicat 	Concatenates midi files to a medley
+midiprog 	Shows GM,GS,XG program names used in a midi file
+midimode 	Guesses midi mode (GM, GS, XG) midi files were written for.
+midimono 	Change balance of a midi file to center (mono)
+miditime 	Calculate play time of a midi file
+rmi2mid 	Convert RIFF midi file to SMF (.mid)
+midicmp 	Compare notes between midi files
+midcopyr 	Show copyright info of midi files, add a copyright notice
+midierr 	check errors of one or more midi files
+em2gm 	maps drum channel 16 to general midi (GM) drum channel 10
+midsplit 	split a midi file track at a given note into two tracks (left hand, right hand)
+karinfo 	search karaoke files (.kar), show karaoke information, extract lyrics.
+syx2midi 	Convert sysex dump file (.syx) to midi file.
+wav2midi 	Convert .wav file to a 16 channel GM midi file (read wav2midi.doc first).
+midicr 	repairs a corrupt midi file that was saved as a DOS text file by accident.
+text2kar 	Convert a midi file with lyrics into a karaoke midi file (.kar).
+kar2midi 	Convert a karaoke midi file (.kar) to a midi file with lyrics (cakewalk, tune1000, farfisa). If not interested in lyrics then you can simply rename file extension .kar to .mid .
+midicopy 	Copy midi file. Delete tracks. Change resolution.
+midires 	Change midi resolution (DOS batch only).
+midictrl 	Insert control changes (e.g. volume, balance, ...) in rhythmic way.
+miditrem 	Convert longer notes into series of short notes (tremolo). E.g. guitar as a Mandoline .
+midvirus 	Check midi files against midi viruses.
+findmidi 	Search list of note sequences in midi files. Convert a midi file to list of note sequences for searching best matching songs.
+midihum 	Modify midi timing and note velocities slightly by random to humanize a midi song.
+midtempo 	Show or change tempo of a midi song.
+midimute 	Mute selected tracks or channels of a midi song (by setting volume to 0 and disabling all other volume changes).
+midipoly 	Calculate location and number of maximum playing notes
+midcompr 	Compresses standard midi files, results are still standard midi files with same musical content!
+midchord 	Guesses chords of midi songs, results can be a new track in the midi song.
+midcntin 	Inserts a measure at beginning of song to count in the tempo.
+midirepl 	Replace one or more notes and optionally their channel.
+chkrange 	Check note ranges of a midi file according to a table.
+midispc 	Solves Karaoke problem: some players don't display words correctly that begin with a space
+mid2rttl 	MIDI melody to ringing tones text language (handy phone melody format RTTTL).
+rttl2mid 	RTTTL ringing tones text format (mobile phone) to midi file.
+midikey 	Guess or set midi song key.
+midihalf 	half tempo without changing the speed, for cases where tempo is too high (higher than 240 bpm).
+midundup 	delete duplicate notes (notes that are played twice at same or similar time).
+DOS MIDI interface utilities
+MIDIMACH 	MIDI Machine DOS/Win95 MIDI player (external Soundblaster or MPU401 interface)
+exchsyx 	send and receive system exclusive commands, dumps and other MIDI (DOS, Windows, MPU or Soundblaster)
+midiecho 	copy MIDI input to MIDI output and display keys on screen, XG, GS life conversion, DOS/Win95, external Soundblaster or MPU401 interface
+exchi3 	send and receive KORG i2/i3 files through MIDI cable (DOS, Windows, MPU or Soundblaster)
+KORG i-series DOS utilities
+mergesty 	DOS batch program to combine two i3 styles into a merged style (requires registered GNIStyle DOS converters: mid2isty, isty2mid)
+bsq2_i40 	older KORG i-series BSQ to i40 BSQ converter
+dmparr 	Korg i3 arrangement format dump
+dmpbsq 	KORG i3 backing sequence format dump
+dmppcg 	Korg i-series user program format dump
+dmpsng 	Korg i3 song format dump
+dmpsty 	KORG i-series style format dump
+findi3 	Find names in KORG i3 files
+globcopy 	(batch) program to copy global settings from one .pcg file to many others (i3 compatibles)
+i30tosyx 	Korg i30 files to sysex dump files
+i5mtoi3 	Korg i5M/i5/i4s/iX300 to i3 converter
+mid2isng 	midi file to Korg i3 song converter
+sng2bsq 	KORG i3 song to backing sequences converter
+sng2midi 	Korg i3 song format to midi files
+splitpcg 	split larger PCG files into smaller ones to access all programs with Korg-i series keyboards
+sty9toi 	Korg format 9 (i2,i3,...) styles to Korg format I styles (i30,...)
+sty9tom 	Korg format 9 (i2,i3,...) styles to Korg format M styles (is40, is50, ...), untested
+styito9 	Korg format I (i30,...) styles to Korg format 9 (i2, i3, ...)
+stymto9 	Korg format M (is40, is50,...) styles to Korg format 9 styles (i2,i3,...)
+Other DOS commandline utilities
+finddbl 	Find duplicate (midi-) files in directories and directory trees
+filedb 	File duplicate database. Stores knowledge about seen files and identifies already seen duplicates.
+zwhere 	Lists files in subdirectories and compressed archives.
+imove 	Intelligent files moving with automatically renaming if file names already exist.
+fmt 	Recognize format of a file (many file formats including sound formats, image formats, movie formats).
+zipblank 	Replace spaces in .zip archive filenames by underscore _.
+zipshort 	Modify ZIP archives to get DOS compatible filenames.
+uex 	mail/news extraction of binary files (e.g. *.mid, *.zip). Decodes popular formats: UU, BASE64, MIME, BINHEX. Identifies file formats and checks midi and zip files. Use this decoder if your preferred (built-in) decoders fail
+Windows programs only for Korg i-series
+gnstyfmt 	style format converter for Windows (i3 -> others, others -> i3)
+GNIArr 	edit some arrangement file parameters not editable by many KORG i-series keyboards
+www.gnmidi.com 	© Günter Nagler 	Contact
+

@@ -1,0 +1,359 @@
+From: <Saved by Windows Internet Explorer 8>
+Subject: MIDI Continuous Controllers
+Date: Mon, 7 Feb 2011 18:06:13 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://improv.sapp.org/doc/class/MidiOutput/controllers/controllers.html
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5994
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-----------------------------------------------------------------------=
+-----><HTML><HEAD><TITLE>MIDI Continuous Controllers</TITLE>
+<META content=3D"text/html; charset=3Dwindows-1252" =
+http-equiv=3DContent-Type>
+<META name=3DDocument-Owner content=3D"Craig Sapp =
+(craig@ccrma.stanford.edu)">
+<META name=3DAuthor content=3D"Craig Stuart Sapp =
+(craig@ccrma.stanford.edu)">
+<META name=3DCreation-Date content=3D" Tue Mar 25 19:52:13 PST 1997 ">
+<META name=3DRevision-Date content=3D" Tue Mar 25 19:52:13 PST 1997 =
+"><!---------------------------------------------------------------------=
+------->
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.18999"></HEAD>
+<BODY>
+<H1>MIDI Continuous Controllers </H1>
+<HR noShade>
+A MIDI continuous controller command consists of the MIDI controller =
+command=20
+followed by two data bytes that specify the controller number and the=20
+controller's value: <PRE>   0xb0 | channel =3D MIDI continuous =
+controller command
+   0 .. 127       =3D MIDI continuous controller number
+   0 .. 127       =3D MIDI continuous controller value
+</PRE>
+<HR noShade>
+<PRE>Controller
+Number
+Hex Dec  Controller Name                         Data Range
+<HR noShade>
+<A name=3D0></A>00   0   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/0.html" =
+target=3Ddescription>Bank Select</A> (coarse)                    0..127  =
+
+<A name=3D1></A>01   1   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/1.html" =
+target=3Ddescription>Modulation Wheel</A> (coarse)               0..127
+<A name=3D2></A>02   2   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/2.html" =
+target=3Ddescription>Breath Control</A> (coarse)                 0..127
+<A name=3D3></A>03   3   Continuous controller #3                0..127
+<A name=3D4></A>04   4   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/4.html" =
+target=3Ddescription>Foot Controller</A> (coarse)                0..127
+<A name=3D5></A>05   5   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/5.html" =
+target=3Ddescription>Portamento Time</A> (coarse)                0..127
+<A name=3D6></A>06   6   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/6.html" =
+target=3Ddescription>Data Entry Slider</A> (coarse)              0..127
+<A name=3D7></A>07   7   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/7.html" =
+target=3Ddescription>Main Volume</A> (coarse)                    0..127
+<A name=3D8></A>08   8   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/8.html" =
+target=3Ddescription>Stereo Balance</A> (coarse)                 0..127
+<A name=3D9></A>09   9   Continuous controller #9                0..127
+<A name=3D10></A>0A  10   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/10.html" =
+target=3Ddescription>Pan</A> (coarse)                            =
+0=3Dleft 64=3Dcenter 127=3Dright
+<A name=3D11></A>0B  11   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/11.html" =
+target=3Ddescription>Expression</A> (sub-Volume) (coarse)        0..127
+<A name=3D12></A>0C  12   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/12.html" =
+target=3Ddescription>Effect Control 1</A> (coarse)               0..127
+<A name=3D13></A>0D  13   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/13.html" =
+target=3Ddescription>Effect Control 2</A> (coarse)               0..127
+<A name=3D14></A>0E  14   Continuous controller #14               0..127
+<A name=3D15></A>0F  15   Continuous controller #15               0..127
+<A name=3D16></A>10  16   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/16.html" =
+target=3Ddescription>General Purpose Slider 1</A>                0..127=20
+<A name=3D17></A>11  17   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/17.html" =
+target=3Ddescription>General Purpose Slider 2</A>                0..127  =
+          =20
+<A name=3D18></A>12  18   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/18.html" =
+target=3Ddescription>General Purpose Slider 3</A>                0..127
+<A name=3D19></A>13  19   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/19.html" =
+target=3Ddescription>General Purpose Slider 4</A>                0..127
+<A name=3D20></A>14  20   Continuous controller #20               0..127
+<A name=3D21></A>15  21   Continuous controller #21               0..127
+<A name=3D22></A>16  22   Continuous controller #22               0..127
+<A name=3D23></A>17  23   Continuous controller #23               0..127
+<A name=3D24></A>18  24   Continuous controller #24               0..127
+<A name=3D25></A>19  25   Continuous controller #25               0..127
+<A name=3D26></A>1A  26   Continuous controller #26               0..127
+<A name=3D27></A>1B  27   Continuous controller #27               0..127
+<A name=3D28></A>1C  28   Continuous controller #28               0..127
+<A name=3D29></A>1D  29   Continuous controller #29               0..127
+<A name=3D30></A>1E  30   Continuous controller #30               0..127
+<A name=3D31></A>1F  31   Continuous controller #31               0..127
+<A name=3D32></A>20  32   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/32.html" =
+target=3Ddescription>Bank Select</A> (fine)                      0..127  =
+usually ignored
+<A name=3D33></A>21  33   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/33.html" =
+target=3Ddescription>Modulation Wheel</A> (fine)                 0..127  =
+
+<A name=3D34></A>22  34   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/34.html" =
+target=3Ddescription>Breath Control</A> (fine)                   0..127
+<A name=3D35></A>23  35   Continuous controller #3 (fine)         0..127
+<A name=3D36></A>24  36   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/36.html" =
+target=3Ddescription>Foot Controller</A> (fine)                  0..127
+<A name=3D37></A>25  37   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/37.html" =
+target=3Ddescription>Portamento Time</A> (fine)                  0..127
+<A name=3D38></A>26  38   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/38.html" =
+target=3Ddescription>Data Entry Slider</A> (fine)                0..127
+<A name=3D39></A>27  39   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/39.html" =
+target=3Ddescription>Main Volume</A> (fine)                      0..127  =
+usually ignored
+<A name=3D40></A>28  40   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/40.html" =
+target=3Ddescription>Stereo Balance</A> (fine)                   0..127
+<A name=3D41></A>29  41   Continuous controller #9 (fine)         0..127 =
+=20
+<A name=3D42></A>2A  42   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/42.html" =
+target=3Ddescription>Pan</A> (fine)                              0..127  =
+usually ignored
+<A name=3D43></A>2B  43   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/43.html" =
+target=3Ddescription>Expression</A> (sub-Volume) (fine)          0..127  =
+usually ignored
+<A name=3D44></A>2C  44   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/44.html" =
+target=3Ddescription>Effect Control 1</A> (fine)                 0..127
+<A name=3D45></A>2D  45   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/45.html" =
+target=3Ddescription>Effect Control 2</A> (fine)                 0..127
+<A name=3D46></A>2E  46   Continuous controller #14 (fine)        0..127 =
+
+<A name=3D47></A>2F  47   Continuous controller #15 (fine)        0..127 =
+=20
+<A name=3D48></A>30  48   Continuous controller #16               0..127 =
+
+<A name=3D49></A>31  49   Continuous controller #17               0..127
+<A name=3D50></A>32  50   Continuous controller #18               0..127
+<A name=3D51></A>33  51   Continuous controller #19               0..127
+<A name=3D52></A>34  52   Continuous controller #20 (fine)        0..127 =
+
+<A name=3D53></A>35  53   Continuous controller #21 (fine)        0..127 =
+
+<A name=3D54></A>36  54   Continuous controller #22 (fine)        0..127 =
+
+<A name=3D55></A>37  55   Continuous controller #23 (fine)        0..127 =
+
+<A name=3D56></A>38  56   Continuous controller #24 (fine)        0..127 =
+
+<A name=3D57></A>39  57   Continuous controller #25 (fine)        0..127 =
+
+<A name=3D58></A>3A  58   Continuous controller #26 (fine)        0..127 =
+
+<A name=3D59></A>3B  59   Continuous controller #27 (fine)        0..127 =
+
+<A name=3D60></A>3C  60   Continuous controller #28 (fine)        0..127 =
+
+<A name=3D61></A>3D  61   Continuous controller #29 (fine)        0..127 =
+
+<A name=3D62></A>3E  62   Continuous controller #30 (fine)        0..127 =
+
+<A name=3D63></A>3F  63   Continuous controller #31 (fine)        0..127 =
+
+<A name=3D64></A>40  64   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/64.html" =
+target=3Ddescription>Hold pedal</A> (Sustain) on/off             =
+0..63=3Doff  64..127=3Don
+<A name=3D65></A>41  65   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/65.html" =
+target=3Ddescription>Portamento</A> on/off                       =
+0..63=3Doff  64..127=3Don
+<A name=3D66></A>42  66   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/66.html" =
+target=3Ddescription>Sustenuto Pedal</A> on/off                  =
+0..63=3Doff  64..127=3Don
+<A name=3D67></A>43  67   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/67.html" =
+target=3Ddescription>Soft Pedal</A> on/off                       =
+0..63=3Doff  64..127=3Don
+<A name=3D68></A>44  68   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/68.html" =
+target=3Ddescription>Legato Pedal</A> on/off                     =
+0..63=3Doff  64..127=3Don
+<A name=3D69></A>45  69   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/69.html" =
+target=3Ddescription>Hold Pedal 2</A> on/off                     =
+0..63=3Doff  64..127=3Don
+<A name=3D70></A>46  70   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/70.html" =
+target=3Ddescription>Sound Variation</A>                         0..127
+<A name=3D71></A>47  71   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/71.html" =
+target=3Ddescription>Sound Timbre</A>                            0..127
+<A name=3D72></A>48  72   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/72.html" =
+target=3Ddescription>Sound Release Time</A>                      0..127
+<A name=3D73></A>49  73   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/73.html" =
+target=3Ddescription>Sound Attack Time</A>                       0..127
+<A name=3D74></A>4A  74   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/74.html" =
+target=3Ddescription>Sound Brighness</A>                         0..127
+<A name=3D75></A>4B  75   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/75.html" =
+target=3Ddescription>Sound Control 6</A>                         0..127
+<A name=3D76></A>4C  76   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/76.html" =
+target=3Ddescription>Sound Control 7</A>                         0..127
+<A name=3D77></A>4D  77   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/77.html" =
+target=3Ddescription>Sound Control 8</A>                         0..127
+<A name=3D78></A>4E  78   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/78.html" =
+target=3Ddescription>Sound Control 9</A>                         0..127
+<A name=3D79></A>4F  79   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/79.html" =
+target=3Ddescription>Sound Control 10</A>                        0..127
+<A name=3D80></A>50  80   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/80.html" =
+target=3Ddescription>General Purpose Button</A>                  =
+0..63=3Doff  64..127=3Don
+<A name=3D81></A>51  81   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/81.html" =
+target=3Ddescription>General Purpose Button</A>                  =
+0..63=3Doff  64..127=3Don
+<A name=3D82></A>52  82   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/82.html" =
+target=3Ddescription>General Purpose Button</A>                  =
+0..63=3Doff  64..127=3Don
+<A name=3D83></A>53  83   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/83.html" =
+target=3Ddescription>General Purpose Button</A>                  =
+0..63=3Doff  64..127=3Don
+<A name=3D84></A>54  84   Undefined on/off                        =
+0..63=3Doff  64..127=3Don
+<A name=3D85></A>55  85   Undefined on/off                        =
+0..63=3Doff  64..127=3Don
+<A name=3D86></A>56  86   Undefined on/off                        =
+0..63=3Doff  64..127=3Don
+<A name=3D87></A>57  87   Undefined on/off                        =
+0..63=3Doff  64..127=3Don
+<A name=3D88></A>58  88   Undefined on/off                        =
+0..63=3Doff  64..127=3Don
+<A name=3D89></A>59  89   Undefined on/off                        =
+0..63=3Doff  64..127=3Don
+<A name=3D90></A>5A  90   Undefined on/off                        =
+0..63=3Doff  64..127=3Don
+<A name=3D91></A>5B  91   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/91.html" =
+target=3Ddescription>Effects Level</A>                           0..127
+<A name=3D92></A>5C  92   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/92.html" =
+target=3Ddescription>Tremulo Level</A>                           0..127
+<A name=3D93></A>5D  93   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/93.html" =
+target=3Ddescription>Chorus Level</A>                            0..127
+<A name=3D94></A>5E  94   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/94.html" =
+target=3Ddescription>Celeste (Detune) Level</A>                  0..127
+<A name=3D95></A>5F  95   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/95.html" =
+target=3Ddescription>Phaser Level</A>                            0..127
+<A name=3D96></A>60  96   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/96.html" =
+target=3Ddescription>Data entry +1</A>                           ignored
+<A name=3D97></A>61  97   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/97.html" =
+target=3Ddescription>Data entry -1</A>                           ignored
+<A name=3D98></A>62  98   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/98.html" =
+target=3Ddescription>Non-Registered Parameter Number</A> (coarse)0..127
+<A name=3D99></A>63  99   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/99.html" =
+target=3Ddescription>Non-Registered Parameter Number</A> (fine)  0..127
+<A name=3D100></A>64 100   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/100.html"=
+ target=3Ddescription>Registered Parameter Number</A> (coarse)    0..127
+<A name=3D101></A>65 101   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/101.html"=
+ target=3Ddescription>Registered Parameter Number</A> (fine)      0..127
+<A name=3D102></A>66 102   Undefined                               ?
+<A name=3D103></A>67 103   Undefined                               ?
+<A name=3D104></A>68 104   Undefined                               ?
+<A name=3D105></A>69 105   Undefined                               ?
+<A name=3D106></A>6A 106   Undefined                               ?
+<A name=3D107></A>6B 107   Undefined                               ?
+<A name=3D108></A>6C 108   Undefined                               ?
+<A name=3D109></A>6D 109   Undefined                               ?
+<A name=3D110></A>6E 110   Undefined                               ?
+<A name=3D111></A>6F 111   Undefined                               ?
+<A name=3D112></A>70 112   Undefined                               ?
+<A name=3D113></A>71 113   Undefined                               ?
+<A name=3D114></A>72 114   Undefined                               ?
+<A name=3D115></A>73 115   Undefined                               ?
+<A name=3D116></A>74 116   Undefined                               ?
+<A name=3D117></A>75 117   Undefined                               ?
+<A name=3D118></A>76 118   Undefined                               ?
+<A name=3D119></A>77 119   Undefined                               ?
+<A name=3D120></A>78 120   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/120.html"=
+ target=3Ddescription>All Sound Off</A>                           =
+ignored
+<A name=3D121></A>79 121   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/121.html"=
+ target=3Ddescription>All Controllers Off</A>                     =
+ignored
+<A name=3D122></A>7A 122   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/122.html"=
+ target=3Ddescription>Local Keyboard On/Off</A>                   =
+0..63=3Doff  64..127=3Don
+<A name=3D123></A>7B 123   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/123.html"=
+ target=3Ddescription>All Notes Off</A>                           =
+ignored
+<A name=3D124></A>7C 124   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/124.html"=
+ target=3Ddescription>Omni Mode Off</A>                           =
+ignored
+<A name=3D125></A>7D 125   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/125.html"=
+ target=3Ddescription>Omni Mode On</A>                            =
+ignored
+<A name=3D126></A>7E 126   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/126.html"=
+ target=3Ddescription>Monophonic Mode On</A>                      **
+<A name=3D127></A>7F 127   <A =
+href=3D"http://improv.sapp.org/doc/class/MidiOutput/controllers/127.html"=
+ target=3Ddescription>Polyphonic Mode On</A> (mono=3Doff)           =
+ignored
+
+ **Note: This equals the number of channels, or zero if the number of =
+channels
+         equals the number of voices in the receiver.
+
+</PRE>
+<HR noShade>
+
+<ADDRESS>craig@ccrma.stanford.edu </ADDRESS></BODY></HTML>
